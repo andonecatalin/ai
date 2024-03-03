@@ -1,0 +1,4484 @@
+[
+    {
+        "t": 1647475200,
+        "AAPL_Open": 1927.61,
+        "AAPL_High": 1949.81,
+        "AAPL_Low": 1923.23,
+        "AAPL_Close": 1942.47,
+        "AAPL_Volume": 162813,
+        "AAPL_Adj Close": 1942.47
+    },
+    {
+        "t": 1647561600,
+        "AAPL_Open": 1942.77,
+        "AAPL_High": 1945.4,
+        "AAPL_Low": 1917.94,
+        "AAPL_Close": 1920.81,
+        "AAPL_Volume": 125400,
+        "AAPL_Adj Close": 1920.81
+    },
+    {
+        "t": 1647820800,
+        "AAPL_Open": 1920.61,
+        "AAPL_High": 1941.25,
+        "AAPL_Low": 1918.13,
+        "AAPL_Close": 1935.75,
+        "AAPL_Volume": 129925,
+        "AAPL_Adj Close": 1935.75
+    },
+    {
+        "t": 1647907200,
+        "AAPL_Open": 1935.37,
+        "AAPL_High": 1938.37,
+        "AAPL_Low": 1910.81,
+        "AAPL_Close": 1921.32,
+        "AAPL_Volume": 137641,
+        "AAPL_Adj Close": 1921.32
+    },
+    {
+        "t": 1647993600,
+        "AAPL_Open": 1921.19,
+        "AAPL_High": 1948.42,
+        "AAPL_Low": 1915.64,
+        "AAPL_Close": 1944.09,
+        "AAPL_Volume": 128115,
+        "AAPL_Adj Close": 1944.09
+    },
+    {
+        "t": 1648080000,
+        "AAPL_Open": 1943.25,
+        "AAPL_High": 1966.1,
+        "AAPL_Low": 1937.37,
+        "AAPL_Close": 1957.57,
+        "AAPL_Volume": 146305,
+        "AAPL_Adj Close": 1957.57
+    },
+    {
+        "t": 1648166400,
+        "AAPL_Open": 1957.85,
+        "AAPL_High": 1964.28,
+        "AAPL_Low": 1943.13,
+        "AAPL_Close": 1957.26,
+        "AAPL_Volume": 148400,
+        "AAPL_Adj Close": 1957.26
+    },
+    {
+        "t": 1648425600,
+        "AAPL_Open": 1956.55,
+        "AAPL_High": 1960.28,
+        "AAPL_Low": 1916.99,
+        "AAPL_Close": 1922.66,
+        "AAPL_Volume": 180430,
+        "AAPL_Adj Close": 1922.66
+    },
+    {
+        "t": 1648512000,
+        "AAPL_Open": 1921.74,
+        "AAPL_High": 1929.34,
+        "AAPL_Low": 1890.08,
+        "AAPL_Close": 1919.45,
+        "AAPL_Volume": 182996,
+        "AAPL_Adj Close": 1919.45
+    },
+    {
+        "t": 1648598400,
+        "AAPL_Open": 1918.42,
+        "AAPL_High": 1938.5,
+        "AAPL_Low": 1915.93,
+        "AAPL_Close": 1932.5,
+        "AAPL_Volume": 154350,
+        "AAPL_Adj Close": 1932.5
+    },
+    {
+        "t": 1648684800,
+        "AAPL_Open": 1932.61,
+        "AAPL_High": 1949.83,
+        "AAPL_Low": 1919.17,
+        "AAPL_Close": 1937.04,
+        "AAPL_Volume": 155348,
+        "AAPL_Adj Close": 1937.04
+    },
+    {
+        "t": 1648771200,
+        "AAPL_Open": 1936.83,
+        "AAPL_High": 1939.57,
+        "AAPL_Low": 1918.04,
+        "AAPL_Close": 1924.46,
+        "AAPL_Volume": 150003,
+        "AAPL_Adj Close": 1924.46
+    },
+    {
+        "t": 1649030400,
+        "AAPL_Open": 1923.86,
+        "AAPL_High": 1936.9,
+        "AAPL_Low": 1915.55,
+        "AAPL_Close": 1932.58,
+        "AAPL_Volume": 125492,
+        "AAPL_Adj Close": 1932.58
+    },
+    {
+        "t": 1649116800,
+        "AAPL_Open": 1932.55,
+        "AAPL_High": 1944.58,
+        "AAPL_Low": 1917.89,
+        "AAPL_Close": 1923.33,
+        "AAPL_Volume": 135979,
+        "AAPL_Adj Close": 1923.33
+    },
+    {
+        "t": 1649203200,
+        "AAPL_Open": 1923.18,
+        "AAPL_High": 1933.46,
+        "AAPL_Low": 1915.09,
+        "AAPL_Close": 1925.13,
+        "AAPL_Volume": 162651,
+        "AAPL_Adj Close": 1925.13
+    },
+    {
+        "t": 1649289600,
+        "AAPL_Open": 1924,
+        "AAPL_High": 1937.78,
+        "AAPL_Low": 1920.55,
+        "AAPL_Close": 1931.5,
+        "AAPL_Volume": 141686,
+        "AAPL_Adj Close": 1931.5
+    },
+    {
+        "t": 1649376000,
+        "AAPL_Open": 1931.45,
+        "AAPL_High": 1948.14,
+        "AAPL_Low": 1927.68,
+        "AAPL_Close": 1946.59,
+        "AAPL_Volume": 134869,
+        "AAPL_Adj Close": 1946.59
+    },
+    {
+        "t": 1649635200,
+        "AAPL_Open": 1946.18,
+        "AAPL_High": 1969.49,
+        "AAPL_Low": 1939.98,
+        "AAPL_Close": 1953.54,
+        "AAPL_Volume": 164079,
+        "AAPL_Adj Close": 1953.54
+    },
+    {
+        "t": 1649721600,
+        "AAPL_Open": 1953.9,
+        "AAPL_High": 1978.58,
+        "AAPL_Low": 1949.65,
+        "AAPL_Close": 1966.48,
+        "AAPL_Volume": 150169,
+        "AAPL_Adj Close": 1966.48
+    },
+    {
+        "t": 1649808000,
+        "AAPL_Open": 1966.65,
+        "AAPL_High": 1981.55,
+        "AAPL_Low": 1962.86,
+        "AAPL_Close": 1978.02,
+        "AAPL_Volume": 142839,
+        "AAPL_Adj Close": 1978.02
+    },
+    {
+        "t": 1649894400,
+        "AAPL_Open": 1977.23,
+        "AAPL_High": 1980.33,
+        "AAPL_Low": 1960.48,
+        "AAPL_Close": 1973.3,
+        "AAPL_Volume": 140625,
+        "AAPL_Adj Close": 1973.3
+    },
+    {
+        "t": 1650240000,
+        "AAPL_Open": 1972.48,
+        "AAPL_High": 1998.32,
+        "AAPL_Low": 1968.96,
+        "AAPL_Close": 1978.56,
+        "AAPL_Volume": 136795,
+        "AAPL_Adj Close": 1978.56
+    },
+    {
+        "t": 1650326400,
+        "AAPL_Open": 1976.41,
+        "AAPL_High": 1981.97,
+        "AAPL_Low": 1943.76,
+        "AAPL_Close": 1950.01,
+        "AAPL_Volume": 164703,
+        "AAPL_Adj Close": 1950.01
+    },
+    {
+        "t": 1650412800,
+        "AAPL_Open": 1949.93,
+        "AAPL_High": 1958.26,
+        "AAPL_Low": 1939.25,
+        "AAPL_Close": 1957.42,
+        "AAPL_Volume": 172288,
+        "AAPL_Adj Close": 1957.42
+    },
+    {
+        "t": 1650499200,
+        "AAPL_Open": 1956.9,
+        "AAPL_High": 1957.42,
+        "AAPL_Low": 1936.75,
+        "AAPL_Close": 1951.14,
+        "AAPL_Volume": 169905,
+        "AAPL_Adj Close": 1951.14
+    },
+    {
+        "t": 1650585600,
+        "AAPL_Open": 1951.03,
+        "AAPL_High": 1955.6,
+        "AAPL_Low": 1926.55,
+        "AAPL_Close": 1931.19,
+        "AAPL_Volume": 181930,
+        "AAPL_Adj Close": 1931.19
+    },
+    {
+        "t": 1650844800,
+        "AAPL_Open": 1930.22,
+        "AAPL_High": 1934.81,
+        "AAPL_Low": 1891.52,
+        "AAPL_Close": 1897.85,
+        "AAPL_Volume": 189571,
+        "AAPL_Adj Close": 1897.85
+    },
+    {
+        "t": 1650931200,
+        "AAPL_Open": 1897.79,
+        "AAPL_High": 1911.16,
+        "AAPL_Low": 1895.7,
+        "AAPL_Close": 1905.12,
+        "AAPL_Volume": 176660,
+        "AAPL_Adj Close": 1905.12
+    },
+    {
+        "t": 1651017600,
+        "AAPL_Open": 1905.57,
+        "AAPL_High": 1907.03,
+        "AAPL_Low": 1881.33,
+        "AAPL_Close": 1885.79,
+        "AAPL_Volume": 172865,
+        "AAPL_Adj Close": 1885.79
+    },
+    {
+        "t": 1651104000,
+        "AAPL_Open": 1885.53,
+        "AAPL_High": 1896.72,
+        "AAPL_Low": 1872.12,
+        "AAPL_Close": 1894.6,
+        "AAPL_Volume": 179163,
+        "AAPL_Adj Close": 1894.6
+    },
+    {
+        "t": 1651190400,
+        "AAPL_Open": 1894.59,
+        "AAPL_High": 1919.84,
+        "AAPL_Low": 1892.55,
+        "AAPL_Close": 1896.34,
+        "AAPL_Volume": 177926,
+        "AAPL_Adj Close": 1896.34
+    },
+    {
+        "t": 1651449600,
+        "AAPL_Open": 1896.63,
+        "AAPL_High": 1899.9,
+        "AAPL_Low": 1854.57,
+        "AAPL_Close": 1862.85,
+        "AAPL_Volume": 167702,
+        "AAPL_Adj Close": 1862.85
+    },
+    {
+        "t": 1651536000,
+        "AAPL_Open": 1863.33,
+        "AAPL_High": 1878.11,
+        "AAPL_Low": 1850.38,
+        "AAPL_Close": 1868.15,
+        "AAPL_Volume": 156650,
+        "AAPL_Adj Close": 1868.15
+    },
+    {
+        "t": 1651622400,
+        "AAPL_Open": 1867.82,
+        "AAPL_High": 1889.78,
+        "AAPL_Low": 1861.48,
+        "AAPL_Close": 1881.16,
+        "AAPL_Volume": 147649,
+        "AAPL_Adj Close": 1881.16
+    },
+    {
+        "t": 1651708800,
+        "AAPL_Open": 1882.86,
+        "AAPL_High": 1909.73,
+        "AAPL_Low": 1872.48,
+        "AAPL_Close": 1877.06,
+        "AAPL_Volume": 212426,
+        "AAPL_Adj Close": 1877.06
+    },
+    {
+        "t": 1651795200,
+        "AAPL_Open": 1876.61,
+        "AAPL_High": 1892.49,
+        "AAPL_Low": 1866.11,
+        "AAPL_Close": 1882.32,
+        "AAPL_Volume": 191855,
+        "AAPL_Adj Close": 1882.32
+    },
+    {
+        "t": 1652054400,
+        "AAPL_Open": 1883.1,
+        "AAPL_High": 1886.15,
+        "AAPL_Low": 1851.67,
+        "AAPL_Close": 1853.65,
+        "AAPL_Volume": 190850,
+        "AAPL_Adj Close": 1853.65
+    },
+    {
+        "t": 1652140800,
+        "AAPL_Open": 1853.41,
+        "AAPL_High": 1865.44,
+        "AAPL_Low": 1835.39,
+        "AAPL_Close": 1838.32,
+        "AAPL_Volume": 193822,
+        "AAPL_Adj Close": 1838.32
+    },
+    {
+        "t": 1652227200,
+        "AAPL_Open": 1838.51,
+        "AAPL_High": 1858.09,
+        "AAPL_Low": 1832.04,
+        "AAPL_Close": 1852.42,
+        "AAPL_Volume": 183207,
+        "AAPL_Adj Close": 1852.42
+    },
+    {
+        "t": 1652313600,
+        "AAPL_Open": 1851.79,
+        "AAPL_High": 1858.75,
+        "AAPL_Low": 1821.26,
+        "AAPL_Close": 1821.87,
+        "AAPL_Volume": 203393,
+        "AAPL_Adj Close": 1821.87
+    },
+    {
+        "t": 1652400000,
+        "AAPL_Open": 1822.1,
+        "AAPL_High": 1828.79,
+        "AAPL_Low": 1799.06,
+        "AAPL_Close": 1811.11,
+        "AAPL_Volume": 165440,
+        "AAPL_Adj Close": 1811.11
+    },
+    {
+        "t": 1652659200,
+        "AAPL_Open": 1808.76,
+        "AAPL_High": 1826.96,
+        "AAPL_Low": 1786.8,
+        "AAPL_Close": 1823.86,
+        "AAPL_Volume": 163723,
+        "AAPL_Adj Close": 1823.86
+    },
+    {
+        "t": 1652745600,
+        "AAPL_Open": 1824.83,
+        "AAPL_High": 1836.1,
+        "AAPL_Low": 1812.9,
+        "AAPL_Close": 1814.86,
+        "AAPL_Volume": 161367,
+        "AAPL_Adj Close": 1814.86
+    },
+    {
+        "t": 1652832000,
+        "AAPL_Open": 1814.32,
+        "AAPL_High": 1824.73,
+        "AAPL_Low": 1807.41,
+        "AAPL_Close": 1816.5,
+        "AAPL_Volume": 154579,
+        "AAPL_Adj Close": 1816.5
+    },
+    {
+        "t": 1652918400,
+        "AAPL_Open": 1816.1,
+        "AAPL_High": 1849.21,
+        "AAPL_Low": 1810.91,
+        "AAPL_Close": 1841.98,
+        "AAPL_Volume": 175878,
+        "AAPL_Adj Close": 1841.98
+    },
+    {
+        "t": 1653004800,
+        "AAPL_Open": 1841.57,
+        "AAPL_High": 1849.38,
+        "AAPL_Low": 1832.33,
+        "AAPL_Close": 1845.86,
+        "AAPL_Volume": 143837,
+        "AAPL_Adj Close": 1845.86
+    },
+    {
+        "t": 1653264000,
+        "AAPL_Open": 1847.79,
+        "AAPL_High": 1865.4,
+        "AAPL_Low": 1843.58,
+        "AAPL_Close": 1853.43,
+        "AAPL_Volume": 129682,
+        "AAPL_Adj Close": 1853.43
+    },
+    {
+        "t": 1653350400,
+        "AAPL_Open": 1853.5,
+        "AAPL_High": 1869.75,
+        "AAPL_Low": 1849.35,
+        "AAPL_Close": 1866.38,
+        "AAPL_Volume": 120584,
+        "AAPL_Adj Close": 1866.38
+    },
+    {
+        "t": 1653436800,
+        "AAPL_Open": 1864.92,
+        "AAPL_High": 1868.05,
+        "AAPL_Low": 1842.42,
+        "AAPL_Close": 1853.05,
+        "AAPL_Volume": 121186,
+        "AAPL_Adj Close": 1853.05
+    },
+    {
+        "t": 1653523200,
+        "AAPL_Open": 1852.9,
+        "AAPL_High": 1854.29,
+        "AAPL_Low": 1841,
+        "AAPL_Close": 1850.61,
+        "AAPL_Volume": 129955,
+        "AAPL_Adj Close": 1850.61
+    },
+    {
+        "t": 1653609600,
+        "AAPL_Open": 1849.93,
+        "AAPL_High": 1861.92,
+        "AAPL_Low": 1847.98,
+        "AAPL_Close": 1853,
+        "AAPL_Volume": 107219,
+        "AAPL_Adj Close": 1853
+    },
+    {
+        "t": 1653868800,
+        "AAPL_Open": 1852.81,
+        "AAPL_High": 1863.96,
+        "AAPL_Low": 1848.08,
+        "AAPL_Close": 1854.13,
+        "AAPL_Volume": 64127,
+        "AAPL_Adj Close": 1854.13
+    },
+    {
+        "t": 1653955200,
+        "AAPL_Open": 1855.57,
+        "AAPL_High": 1857.05,
+        "AAPL_Low": 1835.02,
+        "AAPL_Close": 1837.36,
+        "AAPL_Volume": 125316,
+        "AAPL_Adj Close": 1837.36
+    },
+    {
+        "t": 1654041600,
+        "AAPL_Open": 1836.59,
+        "AAPL_High": 1849.98,
+        "AAPL_Low": 1828.5,
+        "AAPL_Close": 1846.12,
+        "AAPL_Volume": 123056,
+        "AAPL_Adj Close": 1846.12
+    },
+    {
+        "t": 1654128000,
+        "AAPL_Open": 1846.19,
+        "AAPL_High": 1870.41,
+        "AAPL_Low": 1844.06,
+        "AAPL_Close": 1868.62,
+        "AAPL_Volume": 107145,
+        "AAPL_Adj Close": 1868.62
+    },
+    {
+        "t": 1654214400,
+        "AAPL_Open": 1868.91,
+        "AAPL_High": 1874.09,
+        "AAPL_Low": 1847.35,
+        "AAPL_Close": 1850.25,
+        "AAPL_Volume": 97584,
+        "AAPL_Adj Close": 1850.25
+    },
+    {
+        "t": 1654473600,
+        "AAPL_Open": 1849.8,
+        "AAPL_High": 1857.77,
+        "AAPL_Low": 1840.68,
+        "AAPL_Close": 1841.61,
+        "AAPL_Volume": 96341,
+        "AAPL_Adj Close": 1841.61
+    },
+    {
+        "t": 1654560000,
+        "AAPL_Open": 1840.21,
+        "AAPL_High": 1855.56,
+        "AAPL_Low": 1836.94,
+        "AAPL_Close": 1852.22,
+        "AAPL_Volume": 109087,
+        "AAPL_Adj Close": 1852.22
+    },
+    {
+        "t": 1654646400,
+        "AAPL_Open": 1852.23,
+        "AAPL_High": 1859.7,
+        "AAPL_Low": 1844.57,
+        "AAPL_Close": 1853.13,
+        "AAPL_Volume": 103412,
+        "AAPL_Adj Close": 1853.13
+    },
+    {
+        "t": 1654732800,
+        "AAPL_Open": 1852.21,
+        "AAPL_High": 1855.32,
+        "AAPL_Low": 1840.09,
+        "AAPL_Close": 1848.12,
+        "AAPL_Volume": 118168,
+        "AAPL_Adj Close": 1848.12
+    },
+    {
+        "t": 1654819200,
+        "AAPL_Open": 1847.87,
+        "AAPL_High": 1875.86,
+        "AAPL_Low": 1825.1,
+        "AAPL_Close": 1870.66,
+        "AAPL_Volume": 156201,
+        "AAPL_Adj Close": 1870.66
+    },
+    {
+        "t": 1655078400,
+        "AAPL_Open": 1878.1,
+        "AAPL_High": 1878.9,
+        "AAPL_Low": 1819.07,
+        "AAPL_Close": 1819.23,
+        "AAPL_Volume": 180404,
+        "AAPL_Adj Close": 1819.23
+    },
+    {
+        "t": 1655164800,
+        "AAPL_Open": 1819.81,
+        "AAPL_High": 1831.55,
+        "AAPL_Low": 1805.11,
+        "AAPL_Close": 1808.17,
+        "AAPL_Volume": 182092,
+        "AAPL_Adj Close": 1808.17
+    },
+    {
+        "t": 1655251200,
+        "AAPL_Open": 1808.05,
+        "AAPL_High": 1841.8,
+        "AAPL_Low": 1807.04,
+        "AAPL_Close": 1833.69,
+        "AAPL_Volume": 208952,
+        "AAPL_Adj Close": 1833.69
+    },
+    {
+        "t": 1655337600,
+        "AAPL_Open": 1832.99,
+        "AAPL_High": 1857.53,
+        "AAPL_Low": 1816.02,
+        "AAPL_Close": 1856.59,
+        "AAPL_Volume": 208995,
+        "AAPL_Adj Close": 1856.59
+    },
+    {
+        "t": 1655424000,
+        "AAPL_Open": 1855.06,
+        "AAPL_High": 1855.67,
+        "AAPL_Low": 1833.79,
+        "AAPL_Close": 1838.51,
+        "AAPL_Volume": 161145,
+        "AAPL_Adj Close": 1838.51
+    },
+    {
+        "t": 1655683200,
+        "AAPL_Open": 1836.81,
+        "AAPL_High": 1846.1,
+        "AAPL_Low": 1834.66,
+        "AAPL_Close": 1838.51,
+        "AAPL_Volume": 99300,
+        "AAPL_Adj Close": 1838.51
+    },
+    {
+        "t": 1655769600,
+        "AAPL_Open": 1838,
+        "AAPL_High": 1843.65,
+        "AAPL_Low": 1828.57,
+        "AAPL_Close": 1833.06,
+        "AAPL_Volume": 135972,
+        "AAPL_Adj Close": 1833.06
+    },
+    {
+        "t": 1655856000,
+        "AAPL_Open": 1832.72,
+        "AAPL_High": 1847.8,
+        "AAPL_Low": 1823.41,
+        "AAPL_Close": 1837.95,
+        "AAPL_Volume": 152331,
+        "AAPL_Adj Close": 1837.95
+    },
+    {
+        "t": 1655942400,
+        "AAPL_Open": 1836.95,
+        "AAPL_High": 1846.1,
+        "AAPL_Low": 1822.5,
+        "AAPL_Close": 1822.62,
+        "AAPL_Volume": 163826,
+        "AAPL_Adj Close": 1822.62
+    },
+    {
+        "t": 1656028800,
+        "AAPL_Open": 1822.51,
+        "AAPL_High": 1831.78,
+        "AAPL_Low": 1816.88,
+        "AAPL_Close": 1826.75,
+        "AAPL_Volume": 153339,
+        "AAPL_Adj Close": 1826.75
+    },
+    {
+        "t": 1656288000,
+        "AAPL_Open": 1834.79,
+        "AAPL_High": 1841.05,
+        "AAPL_Low": 1820.73,
+        "AAPL_Close": 1822.49,
+        "AAPL_Volume": 141761,
+        "AAPL_Adj Close": 1822.49
+    },
+    {
+        "t": 1656374400,
+        "AAPL_Open": 1822.09,
+        "AAPL_High": 1829.48,
+        "AAPL_Low": 1818.44,
+        "AAPL_Close": 1819.81,
+        "AAPL_Volume": 125887,
+        "AAPL_Adj Close": 1819.81
+    },
+    {
+        "t": 1656460800,
+        "AAPL_Open": 1819.37,
+        "AAPL_High": 1832.94,
+        "AAPL_Low": 1812.05,
+        "AAPL_Close": 1817.9,
+        "AAPL_Volume": 138473,
+        "AAPL_Adj Close": 1817.9
+    },
+    {
+        "t": 1656547200,
+        "AAPL_Open": 1817.69,
+        "AAPL_High": 1825.13,
+        "AAPL_Low": 1802.7,
+        "AAPL_Close": 1807.17,
+        "AAPL_Volume": 151083,
+        "AAPL_Adj Close": 1807.17
+    },
+    {
+        "t": 1656633600,
+        "AAPL_Open": 1807.12,
+        "AAPL_High": 1811.56,
+        "AAPL_Low": 1784.5,
+        "AAPL_Close": 1809.82,
+        "AAPL_Volume": 170264,
+        "AAPL_Adj Close": 1809.82
+    },
+    {
+        "t": 1656892800,
+        "AAPL_Open": 1809.7,
+        "AAPL_High": 1814.32,
+        "AAPL_Low": 1803.96,
+        "AAPL_Close": 1807.64,
+        "AAPL_Volume": 85985,
+        "AAPL_Adj Close": 1807.64
+    },
+    {
+        "t": 1656979200,
+        "AAPL_Open": 1807.55,
+        "AAPL_High": 1812.12,
+        "AAPL_Low": 1763.89,
+        "AAPL_Close": 1764.63,
+        "AAPL_Volume": 168969,
+        "AAPL_Adj Close": 1764.63
+    },
+    {
+        "t": 1657065600,
+        "AAPL_Open": 1765.51,
+        "AAPL_High": 1772.84,
+        "AAPL_Low": 1732.26,
+        "AAPL_Close": 1739.06,
+        "AAPL_Volume": 183859,
+        "AAPL_Adj Close": 1739.06
+    },
+    {
+        "t": 1657152000,
+        "AAPL_Open": 1737.83,
+        "AAPL_High": 1749.02,
+        "AAPL_Low": 1736.48,
+        "AAPL_Close": 1740.16,
+        "AAPL_Volume": 138819,
+        "AAPL_Adj Close": 1740.16
+    },
+    {
+        "t": 1657238400,
+        "AAPL_Open": 1740.2,
+        "AAPL_High": 1757.18,
+        "AAPL_Low": 1729.26,
+        "AAPL_Close": 1741.56,
+        "AAPL_Volume": 141285,
+        "AAPL_Adj Close": 1741.56
+    },
+    {
+        "t": 1657497600,
+        "AAPL_Open": 1741.11,
+        "AAPL_High": 1744.49,
+        "AAPL_Low": 1731.27,
+        "AAPL_Close": 1734.05,
+        "AAPL_Volume": 126415,
+        "AAPL_Adj Close": 1734.05
+    },
+    {
+        "t": 1657584000,
+        "AAPL_Open": 1733.57,
+        "AAPL_High": 1744.16,
+        "AAPL_Low": 1723.22,
+        "AAPL_Close": 1726.07,
+        "AAPL_Volume": 155009,
+        "AAPL_Adj Close": 1726.07
+    },
+    {
+        "t": 1657670400,
+        "AAPL_Open": 1725.93,
+        "AAPL_High": 1745.34,
+        "AAPL_Low": 1707.12,
+        "AAPL_Close": 1735.54,
+        "AAPL_Volume": 176396,
+        "AAPL_Adj Close": 1735.54
+    },
+    {
+        "t": 1657756800,
+        "AAPL_Open": 1735.36,
+        "AAPL_High": 1736.18,
+        "AAPL_Low": 1697.54,
+        "AAPL_Close": 1709.69,
+        "AAPL_Volume": 187202,
+        "AAPL_Adj Close": 1709.69
+    },
+    {
+        "t": 1657843200,
+        "AAPL_Open": 1710.56,
+        "AAPL_High": 1716.5,
+        "AAPL_Low": 1699.06,
+        "AAPL_Close": 1706.95,
+        "AAPL_Volume": 155222,
+        "AAPL_Adj Close": 1706.95
+    },
+    {
+        "t": 1658102400,
+        "AAPL_Open": 1707.17,
+        "AAPL_High": 1723.87,
+        "AAPL_Low": 1705.87,
+        "AAPL_Close": 1708.95,
+        "AAPL_Volume": 144316,
+        "AAPL_Adj Close": 1708.95
+    },
+    {
+        "t": 1658188800,
+        "AAPL_Open": 1709.41,
+        "AAPL_High": 1718.39,
+        "AAPL_Low": 1705.31,
+        "AAPL_Close": 1711.52,
+        "AAPL_Volume": 131938,
+        "AAPL_Adj Close": 1711.52
+    },
+    {
+        "t": 1658275200,
+        "AAPL_Open": 1711.6,
+        "AAPL_High": 1714.4,
+        "AAPL_Low": 1692.34,
+        "AAPL_Close": 1696.49,
+        "AAPL_Volume": 131997,
+        "AAPL_Adj Close": 1696.49
+    },
+    {
+        "t": 1658361600,
+        "AAPL_Open": 1696.3,
+        "AAPL_High": 1720.12,
+        "AAPL_Low": 1680.87,
+        "AAPL_Close": 1718.18,
+        "AAPL_Volume": 152131,
+        "AAPL_Adj Close": 1718.18
+    },
+    {
+        "t": 1658448000,
+        "AAPL_Open": 1717.98,
+        "AAPL_High": 1739.21,
+        "AAPL_Low": 1712.81,
+        "AAPL_Close": 1727.03,
+        "AAPL_Volume": 153511,
+        "AAPL_Adj Close": 1727.03
+    },
+    {
+        "t": 1658707200,
+        "AAPL_Open": 1726.56,
+        "AAPL_High": 1736.18,
+        "AAPL_Low": 1714.69,
+        "AAPL_Close": 1719.62,
+        "AAPL_Volume": 139751,
+        "AAPL_Adj Close": 1719.62
+    },
+    {
+        "t": 1658793600,
+        "AAPL_Open": 1719.02,
+        "AAPL_High": 1728.11,
+        "AAPL_Low": 1713.56,
+        "AAPL_Close": 1717.18,
+        "AAPL_Volume": 136700,
+        "AAPL_Adj Close": 1717.18
+    },
+    {
+        "t": 1658880000,
+        "AAPL_Open": 1717.22,
+        "AAPL_High": 1740.14,
+        "AAPL_Low": 1711.44,
+        "AAPL_Close": 1734.25,
+        "AAPL_Volume": 144244,
+        "AAPL_Adj Close": 1734.25
+    },
+    {
+        "t": 1658966400,
+        "AAPL_Open": 1734.11,
+        "AAPL_High": 1757.06,
+        "AAPL_Low": 1733.86,
+        "AAPL_Close": 1755.81,
+        "AAPL_Volume": 169395,
+        "AAPL_Adj Close": 1755.81
+    },
+    {
+        "t": 1659052800,
+        "AAPL_Open": 1755.67,
+        "AAPL_High": 1767.92,
+        "AAPL_Low": 1752.04,
+        "AAPL_Close": 1765.81,
+        "AAPL_Volume": 166170,
+        "AAPL_Adj Close": 1765.81
+    },
+    {
+        "t": 1659312000,
+        "AAPL_Open": 1764.74,
+        "AAPL_High": 1775.18,
+        "AAPL_Low": 1758.25,
+        "AAPL_Close": 1772.08,
+        "AAPL_Volume": 160738,
+        "AAPL_Adj Close": 1772.08
+    },
+    {
+        "t": 1659398400,
+        "AAPL_Open": 1771.99,
+        "AAPL_High": 1787.96,
+        "AAPL_Low": 1760.4,
+        "AAPL_Close": 1761,
+        "AAPL_Volume": 182546,
+        "AAPL_Adj Close": 1761
+    },
+    {
+        "t": 1659484800,
+        "AAPL_Open": 1761.35,
+        "AAPL_High": 1772.69,
+        "AAPL_Low": 1754.24,
+        "AAPL_Close": 1765.43,
+        "AAPL_Volume": 160541,
+        "AAPL_Adj Close": 1765.43
+    },
+    {
+        "t": 1659571200,
+        "AAPL_Open": 1765.18,
+        "AAPL_High": 1794.9,
+        "AAPL_Low": 1763.13,
+        "AAPL_Close": 1791.09,
+        "AAPL_Volume": 145283,
+        "AAPL_Adj Close": 1791.09
+    },
+    {
+        "t": 1659657600,
+        "AAPL_Open": 1790.79,
+        "AAPL_High": 1794.84,
+        "AAPL_Low": 1764.94,
+        "AAPL_Close": 1775.08,
+        "AAPL_Volume": 156350,
+        "AAPL_Adj Close": 1775.08
+    },
+    {
+        "t": 1659916800,
+        "AAPL_Open": 1772.68,
+        "AAPL_High": 1790.02,
+        "AAPL_Low": 1770.47,
+        "AAPL_Close": 1788.95,
+        "AAPL_Volume": 130990,
+        "AAPL_Adj Close": 1788.95
+    },
+    {
+        "t": 1660003200,
+        "AAPL_Open": 1788.74,
+        "AAPL_High": 1800.37,
+        "AAPL_Low": 1783.18,
+        "AAPL_Close": 1794.29,
+        "AAPL_Volume": 126137,
+        "AAPL_Adj Close": 1794.29
+    },
+    {
+        "t": 1660089600,
+        "AAPL_Open": 1795.07,
+        "AAPL_High": 1807.88,
+        "AAPL_Low": 1787.45,
+        "AAPL_Close": 1792.17,
+        "AAPL_Volume": 141162,
+        "AAPL_Adj Close": 1792.17
+    },
+    {
+        "t": 1660176000,
+        "AAPL_Open": 1792.19,
+        "AAPL_High": 1799.24,
+        "AAPL_Low": 1783.44,
+        "AAPL_Close": 1789.42,
+        "AAPL_Volume": 139914,
+        "AAPL_Adj Close": 1789.42
+    },
+    {
+        "t": 1660262400,
+        "AAPL_Open": 1789.65,
+        "AAPL_High": 1802.15,
+        "AAPL_Low": 1784.92,
+        "AAPL_Close": 1801.69,
+        "AAPL_Volume": 131269,
+        "AAPL_Adj Close": 1801.69
+    },
+    {
+        "t": 1660521600,
+        "AAPL_Open": 1802.24,
+        "AAPL_High": 1802.24,
+        "AAPL_Low": 1772.96,
+        "AAPL_Close": 1779.41,
+        "AAPL_Volume": 136189,
+        "AAPL_Adj Close": 1779.41
+    },
+    {
+        "t": 1660608000,
+        "AAPL_Open": 1779.84,
+        "AAPL_High": 1783.15,
+        "AAPL_Low": 1771.37,
+        "AAPL_Close": 1775.45,
+        "AAPL_Volume": 122986,
+        "AAPL_Adj Close": 1775.45
+    },
+    {
+        "t": 1660694400,
+        "AAPL_Open": 1775.64,
+        "AAPL_High": 1782.28,
+        "AAPL_Low": 1759.8,
+        "AAPL_Close": 1761.94,
+        "AAPL_Volume": 147793,
+        "AAPL_Adj Close": 1761.94
+    },
+    {
+        "t": 1660780800,
+        "AAPL_Open": 1762.32,
+        "AAPL_High": 1772.38,
+        "AAPL_Low": 1755.33,
+        "AAPL_Close": 1758.36,
+        "AAPL_Volume": 131441,
+        "AAPL_Adj Close": 1758.36
+    },
+    {
+        "t": 1660867200,
+        "AAPL_Open": 1758.86,
+        "AAPL_High": 1759.3,
+        "AAPL_Low": 1745.48,
+        "AAPL_Close": 1746.84,
+        "AAPL_Volume": 132889,
+        "AAPL_Adj Close": 1746.84
+    },
+    {
+        "t": 1661126400,
+        "AAPL_Open": 1746.83,
+        "AAPL_High": 1749.07,
+        "AAPL_Low": 1727.75,
+        "AAPL_Close": 1736.09,
+        "AAPL_Volume": 136608,
+        "AAPL_Adj Close": 1736.09
+    },
+    {
+        "t": 1661212800,
+        "AAPL_Open": 1735.98,
+        "AAPL_High": 1754.07,
+        "AAPL_Low": 1730.78,
+        "AAPL_Close": 1747.76,
+        "AAPL_Volume": 132094,
+        "AAPL_Adj Close": 1747.76
+    },
+    {
+        "t": 1661299200,
+        "AAPL_Open": 1747.85,
+        "AAPL_High": 1755.82,
+        "AAPL_Low": 1742.44,
+        "AAPL_Close": 1751.22,
+        "AAPL_Volume": 129088,
+        "AAPL_Adj Close": 1751.22
+    },
+    {
+        "t": 1661385600,
+        "AAPL_Open": 1751.2,
+        "AAPL_High": 1765.53,
+        "AAPL_Low": 1749.83,
+        "AAPL_Close": 1758.64,
+        "AAPL_Volume": 134328,
+        "AAPL_Adj Close": 1758.64
+    },
+    {
+        "t": 1661472000,
+        "AAPL_Open": 1758.57,
+        "AAPL_High": 1758.86,
+        "AAPL_Low": 1734.16,
+        "AAPL_Close": 1737.73,
+        "AAPL_Volume": 162185,
+        "AAPL_Adj Close": 1737.73
+    },
+    {
+        "t": 1661731200,
+        "AAPL_Open": 1735.96,
+        "AAPL_High": 1745.48,
+        "AAPL_Low": 1720.32,
+        "AAPL_Close": 1737.48,
+        "AAPL_Volume": 168271,
+        "AAPL_Adj Close": 1737.48
+    },
+    {
+        "t": 1661817600,
+        "AAPL_Open": 1737.15,
+        "AAPL_High": 1740.48,
+        "AAPL_Low": 1721.2,
+        "AAPL_Close": 1724.25,
+        "AAPL_Volume": 159531,
+        "AAPL_Adj Close": 1724.25
+    },
+    {
+        "t": 1661904000,
+        "AAPL_Open": 1723.48,
+        "AAPL_High": 1726.5,
+        "AAPL_Low": 1709.69,
+        "AAPL_Close": 1710.95,
+        "AAPL_Volume": 174370,
+        "AAPL_Adj Close": 1710.95
+    },
+    {
+        "t": 1661990400,
+        "AAPL_Open": 1710.98,
+        "AAPL_High": 1711.36,
+        "AAPL_Low": 1688.8,
+        "AAPL_Close": 1697.49,
+        "AAPL_Volume": 180468,
+        "AAPL_Adj Close": 1697.49
+    },
+    {
+        "t": 1662076800,
+        "AAPL_Open": 1696.58,
+        "AAPL_High": 1718,
+        "AAPL_Low": 1694.99,
+        "AAPL_Close": 1712.1,
+        "AAPL_Volume": 162021,
+        "AAPL_Adj Close": 1712.1
+    },
+    {
+        "t": 1662336000,
+        "AAPL_Open": 1711.76,
+        "AAPL_High": 1715.78,
+        "AAPL_Low": 1707.75,
+        "AAPL_Close": 1710.08,
+        "AAPL_Volume": 95235,
+        "AAPL_Adj Close": 1710.08
+    },
+    {
+        "t": 1662422400,
+        "AAPL_Open": 1709.61,
+        "AAPL_High": 1726.74,
+        "AAPL_Low": 1699.83,
+        "AAPL_Close": 1701.83,
+        "AAPL_Volume": 192707,
+        "AAPL_Adj Close": 1701.83
+    },
+    {
+        "t": 1662508800,
+        "AAPL_Open": 1702.09,
+        "AAPL_High": 1719.35,
+        "AAPL_Low": 1691.29,
+        "AAPL_Close": 1718.24,
+        "AAPL_Volume": 195411,
+        "AAPL_Adj Close": 1718.24
+    },
+    {
+        "t": 1662595200,
+        "AAPL_Open": 1718.35,
+        "AAPL_High": 1728.18,
+        "AAPL_Low": 1703.95,
+        "AAPL_Close": 1708.47,
+        "AAPL_Volume": 208524,
+        "AAPL_Adj Close": 1708.47
+    },
+    {
+        "t": 1662681600,
+        "AAPL_Open": 1708.78,
+        "AAPL_High": 1729.46,
+        "AAPL_Low": 1708.47,
+        "AAPL_Close": 1717.36,
+        "AAPL_Volume": 189888,
+        "AAPL_Adj Close": 1717.36
+    },
+    {
+        "t": 1662940800,
+        "AAPL_Open": 1717.26,
+        "AAPL_High": 1735.12,
+        "AAPL_Low": 1711.93,
+        "AAPL_Close": 1724.65,
+        "AAPL_Volume": 192821,
+        "AAPL_Adj Close": 1724.65
+    },
+    {
+        "t": 1663027200,
+        "AAPL_Open": 1724.94,
+        "AAPL_High": 1731.76,
+        "AAPL_Low": 1697.03,
+        "AAPL_Close": 1702.28,
+        "AAPL_Volume": 207836,
+        "AAPL_Adj Close": 1702.28
+    },
+    {
+        "t": 1663113600,
+        "AAPL_Open": 1701.77,
+        "AAPL_High": 1707.09,
+        "AAPL_Low": 1693.65,
+        "AAPL_Close": 1697.33,
+        "AAPL_Volume": 213240,
+        "AAPL_Adj Close": 1697.33
+    },
+    {
+        "t": 1663200000,
+        "AAPL_Open": 1697.5,
+        "AAPL_High": 1698.27,
+        "AAPL_Low": 1660.34,
+        "AAPL_Close": 1664.63,
+        "AAPL_Volume": 196227,
+        "AAPL_Adj Close": 1664.63
+    },
+    {
+        "t": 1663286400,
+        "AAPL_Open": 1664.71,
+        "AAPL_High": 1680.39,
+        "AAPL_Low": 1654.13,
+        "AAPL_Close": 1675.23,
+        "AAPL_Volume": 187248,
+        "AAPL_Adj Close": 1675.23
+    },
+    {
+        "t": 1663545600,
+        "AAPL_Open": 1674.5,
+        "AAPL_High": 1679.9,
+        "AAPL_Low": 1659.64,
+        "AAPL_Close": 1675.63,
+        "AAPL_Volume": 151881,
+        "AAPL_Adj Close": 1675.63
+    },
+    {
+        "t": 1663632000,
+        "AAPL_Open": 1675.9,
+        "AAPL_High": 1679.48,
+        "AAPL_Low": 1659.99,
+        "AAPL_Close": 1664.8,
+        "AAPL_Volume": 166607,
+        "AAPL_Adj Close": 1664.8
+    },
+    {
+        "t": 1663718400,
+        "AAPL_Open": 1664.93,
+        "AAPL_High": 1688.07,
+        "AAPL_Low": 1653.82,
+        "AAPL_Close": 1673.69,
+        "AAPL_Volume": 197633,
+        "AAPL_Adj Close": 1673.69
+    },
+    {
+        "t": 1663804800,
+        "AAPL_Open": 1673.38,
+        "AAPL_High": 1684.86,
+        "AAPL_Low": 1655.66,
+        "AAPL_Close": 1671.22,
+        "AAPL_Volume": 241450,
+        "AAPL_Adj Close": 1671.22
+    },
+    {
+        "t": 1663891200,
+        "AAPL_Open": 1671.36,
+        "AAPL_High": 1675.98,
+        "AAPL_Low": 1639.71,
+        "AAPL_Close": 1643.39,
+        "AAPL_Volume": 220914,
+        "AAPL_Adj Close": 1643.39
+    },
+    {
+        "t": 1664150400,
+        "AAPL_Open": 1645.23,
+        "AAPL_High": 1649.7,
+        "AAPL_Low": 1621.11,
+        "AAPL_Close": 1622.43,
+        "AAPL_Volume": 249758,
+        "AAPL_Adj Close": 1622.43
+    },
+    {
+        "t": 1664236800,
+        "AAPL_Open": 1622.14,
+        "AAPL_High": 1642.43,
+        "AAPL_Low": 1622.12,
+        "AAPL_Close": 1629.16,
+        "AAPL_Volume": 209819,
+        "AAPL_Adj Close": 1629.16
+    },
+    {
+        "t": 1664323200,
+        "AAPL_Open": 1629.16,
+        "AAPL_High": 1662.77,
+        "AAPL_Low": 1614.83,
+        "AAPL_Close": 1659.92,
+        "AAPL_Volume": 246763,
+        "AAPL_Adj Close": 1659.92
+    },
+    {
+        "t": 1664409600,
+        "AAPL_Open": 1659.58,
+        "AAPL_High": 1664.87,
+        "AAPL_Low": 1641.51,
+        "AAPL_Close": 1660.48,
+        "AAPL_Volume": 227875,
+        "AAPL_Adj Close": 1660.48
+    },
+    {
+        "t": 1664496000,
+        "AAPL_Open": 1660.56,
+        "AAPL_High": 1675.33,
+        "AAPL_Low": 1659.21,
+        "AAPL_Close": 1660.85,
+        "AAPL_Volume": 210403,
+        "AAPL_Adj Close": 1660.85
+    },
+    {
+        "t": 1664755200,
+        "AAPL_Open": 1660.66,
+        "AAPL_High": 1701.44,
+        "AAPL_Low": 1659.63,
+        "AAPL_Close": 1699.58,
+        "AAPL_Volume": 203550,
+        "AAPL_Adj Close": 1699.58
+    },
+    {
+        "t": 1664841600,
+        "AAPL_Open": 1699.33,
+        "AAPL_High": 1729.45,
+        "AAPL_Low": 1695.18,
+        "AAPL_Close": 1726.3,
+        "AAPL_Volume": 203737,
+        "AAPL_Adj Close": 1726.3
+    },
+    {
+        "t": 1664928000,
+        "AAPL_Open": 1725.83,
+        "AAPL_High": 1727.76,
+        "AAPL_Low": 1700.45,
+        "AAPL_Close": 1716.21,
+        "AAPL_Volume": 198499,
+        "AAPL_Adj Close": 1716.21
+    },
+    {
+        "t": 1665014400,
+        "AAPL_Open": 1716.72,
+        "AAPL_High": 1725.49,
+        "AAPL_Low": 1706.95,
+        "AAPL_Close": 1712.42,
+        "AAPL_Volume": 184249,
+        "AAPL_Adj Close": 1712.42
+    },
+    {
+        "t": 1665100800,
+        "AAPL_Open": 1712.48,
+        "AAPL_High": 1714.82,
+        "AAPL_Low": 1690.58,
+        "AAPL_Close": 1694.83,
+        "AAPL_Volume": 174697,
+        "AAPL_Adj Close": 1694.83
+    },
+    {
+        "t": 1665360000,
+        "AAPL_Open": 1695.55,
+        "AAPL_High": 1699.91,
+        "AAPL_Low": 1665.71,
+        "AAPL_Close": 1668.02,
+        "AAPL_Volume": 164939,
+        "AAPL_Adj Close": 1668.02
+    },
+    {
+        "t": 1665446400,
+        "AAPL_Open": 1668.49,
+        "AAPL_High": 1683.91,
+        "AAPL_Low": 1660.99,
+        "AAPL_Close": 1666.14,
+        "AAPL_Volume": 199546,
+        "AAPL_Adj Close": 1666.14
+    },
+    {
+        "t": 1665532800,
+        "AAPL_Open": 1666.35,
+        "AAPL_High": 1678.32,
+        "AAPL_Low": 1661.34,
+        "AAPL_Close": 1673.1,
+        "AAPL_Volume": 193230,
+        "AAPL_Adj Close": 1673.1
+    },
+    {
+        "t": 1665619200,
+        "AAPL_Open": 1673.82,
+        "AAPL_High": 1682.42,
+        "AAPL_Low": 1642.45,
+        "AAPL_Close": 1666.08,
+        "AAPL_Volume": 204000,
+        "AAPL_Adj Close": 1666.08
+    },
+    {
+        "t": 1665705600,
+        "AAPL_Open": 1666.27,
+        "AAPL_High": 1671.78,
+        "AAPL_Low": 1640.23,
+        "AAPL_Close": 1643.77,
+        "AAPL_Volume": 206632,
+        "AAPL_Adj Close": 1643.77
+    },
+    {
+        "t": 1665964800,
+        "AAPL_Open": 1644.12,
+        "AAPL_High": 1668.42,
+        "AAPL_Low": 1643.99,
+        "AAPL_Close": 1650.55,
+        "AAPL_Volume": 170336,
+        "AAPL_Adj Close": 1650.55
+    },
+    {
+        "t": 1666051200,
+        "AAPL_Open": 1650.39,
+        "AAPL_High": 1660.93,
+        "AAPL_Low": 1645.82,
+        "AAPL_Close": 1651.95,
+        "AAPL_Volume": 155436,
+        "AAPL_Adj Close": 1651.95
+    },
+    {
+        "t": 1666137600,
+        "AAPL_Open": 1651.83,
+        "AAPL_High": 1654.4,
+        "AAPL_Low": 1627.67,
+        "AAPL_Close": 1629.04,
+        "AAPL_Volume": 135357,
+        "AAPL_Adj Close": 1629.04
+    },
+    {
+        "t": 1666224000,
+        "AAPL_Open": 1629.24,
+        "AAPL_High": 1645.62,
+        "AAPL_Low": 1622.45,
+        "AAPL_Close": 1628.06,
+        "AAPL_Volume": 135884,
+        "AAPL_Adj Close": 1628.06
+    },
+    {
+        "t": 1666310400,
+        "AAPL_Open": 1627.86,
+        "AAPL_High": 1657.78,
+        "AAPL_Low": 1617.18,
+        "AAPL_Close": 1657.69,
+        "AAPL_Volume": 166634,
+        "AAPL_Adj Close": 1657.69
+    },
+    {
+        "t": 1666569600,
+        "AAPL_Open": 1659.53,
+        "AAPL_High": 1670.7,
+        "AAPL_Low": 1643.97,
+        "AAPL_Close": 1649.38,
+        "AAPL_Volume": 154746,
+        "AAPL_Adj Close": 1649.38
+    },
+    {
+        "t": 1666656000,
+        "AAPL_Open": 1650.04,
+        "AAPL_High": 1662.4,
+        "AAPL_Low": 1638.27,
+        "AAPL_Close": 1653.1,
+        "AAPL_Volume": 130282,
+        "AAPL_Adj Close": 1653.1
+    },
+    {
+        "t": 1666742400,
+        "AAPL_Open": 1653.03,
+        "AAPL_High": 1674.96,
+        "AAPL_Low": 1649.7,
+        "AAPL_Close": 1664.6,
+        "AAPL_Volume": 136586,
+        "AAPL_Adj Close": 1664.6
+    },
+    {
+        "t": 1666828800,
+        "AAPL_Open": 1664.04,
+        "AAPL_High": 1670.84,
+        "AAPL_Low": 1654.87,
+        "AAPL_Close": 1663.29,
+        "AAPL_Volume": 138758,
+        "AAPL_Adj Close": 1663.29
+    },
+    {
+        "t": 1666915200,
+        "AAPL_Open": 1662.84,
+        "AAPL_High": 1667.01,
+        "AAPL_Low": 1638.01,
+        "AAPL_Close": 1644.29,
+        "AAPL_Volume": 129694,
+        "AAPL_Adj Close": 1644.29
+    },
+    {
+        "t": 1667174400,
+        "AAPL_Open": 1643.22,
+        "AAPL_High": 1645.62,
+        "AAPL_Low": 1631.82,
+        "AAPL_Close": 1633.54,
+        "AAPL_Volume": 102773,
+        "AAPL_Adj Close": 1633.54
+    },
+    {
+        "t": 1667260800,
+        "AAPL_Open": 1632.96,
+        "AAPL_High": 1657.01,
+        "AAPL_Low": 1630.9,
+        "AAPL_Close": 1647.68,
+        "AAPL_Volume": 130885,
+        "AAPL_Adj Close": 1647.68
+    },
+    {
+        "t": 1667347200,
+        "AAPL_Open": 1647.8,
+        "AAPL_High": 1669.5,
+        "AAPL_Low": 1634.75,
+        "AAPL_Close": 1635.07,
+        "AAPL_Volume": 123778,
+        "AAPL_Adj Close": 1635.07
+    },
+    {
+        "t": 1667433600,
+        "AAPL_Open": 1635.41,
+        "AAPL_High": 1640.97,
+        "AAPL_Low": 1616.64,
+        "AAPL_Close": 1629.57,
+        "AAPL_Volume": 136258,
+        "AAPL_Adj Close": 1629.57
+    },
+    {
+        "t": 1667520000,
+        "AAPL_Open": 1629.43,
+        "AAPL_High": 1681.68,
+        "AAPL_Low": 1628.6,
+        "AAPL_Close": 1681.1,
+        "AAPL_Volume": 146655,
+        "AAPL_Adj Close": 1681.1
+    },
+    {
+        "t": 1667779200,
+        "AAPL_Open": 1675.17,
+        "AAPL_High": 1681.87,
+        "AAPL_Low": 1666.89,
+        "AAPL_Close": 1675.26,
+        "AAPL_Volume": 176197,
+        "AAPL_Adj Close": 1675.26
+    },
+    {
+        "t": 1667865600,
+        "AAPL_Open": 1675.02,
+        "AAPL_High": 1716.87,
+        "AAPL_Low": 1664.68,
+        "AAPL_Close": 1712.39,
+        "AAPL_Volume": 140164,
+        "AAPL_Adj Close": 1712.39
+    },
+    {
+        "t": 1667952000,
+        "AAPL_Open": 1711.71,
+        "AAPL_High": 1722.24,
+        "AAPL_Low": 1702.2,
+        "AAPL_Close": 1706.97,
+        "AAPL_Volume": 149526,
+        "AAPL_Adj Close": 1706.97
+    },
+    {
+        "t": 1668038400,
+        "AAPL_Open": 1706.52,
+        "AAPL_High": 1757.21,
+        "AAPL_Low": 1703.83,
+        "AAPL_Close": 1755.45,
+        "AAPL_Volume": 166860,
+        "AAPL_Adj Close": 1755.45
+    },
+    {
+        "t": 1668124800,
+        "AAPL_Open": 1754.3,
+        "AAPL_High": 1772.6,
+        "AAPL_Low": 1747.24,
+        "AAPL_Close": 1769.99,
+        "AAPL_Volume": 173462,
+        "AAPL_Adj Close": 1769.99
+    },
+    {
+        "t": 1668384000,
+        "AAPL_Open": 1764.42,
+        "AAPL_High": 1775.08,
+        "AAPL_Low": 1753.24,
+        "AAPL_Close": 1771.09,
+        "AAPL_Volume": 157463,
+        "AAPL_Adj Close": 1771.09
+    },
+    {
+        "t": 1668470400,
+        "AAPL_Open": 1770.83,
+        "AAPL_High": 1786.42,
+        "AAPL_Low": 1767.08,
+        "AAPL_Close": 1778.59,
+        "AAPL_Volume": 192213,
+        "AAPL_Adj Close": 1778.59
+    },
+    {
+        "t": 1668556800,
+        "AAPL_Open": 1778.63,
+        "AAPL_High": 1785.07,
+        "AAPL_Low": 1770.3,
+        "AAPL_Close": 1773.73,
+        "AAPL_Volume": 168290,
+        "AAPL_Adj Close": 1773.73
+    },
+    {
+        "t": 1668643200,
+        "AAPL_Open": 1773.38,
+        "AAPL_High": 1774.74,
+        "AAPL_Low": 1754.45,
+        "AAPL_Close": 1760.14,
+        "AAPL_Volume": 159777,
+        "AAPL_Adj Close": 1760.14
+    },
+    {
+        "t": 1668729600,
+        "AAPL_Open": 1760.38,
+        "AAPL_High": 1767.68,
+        "AAPL_Low": 1747.55,
+        "AAPL_Close": 1750.2,
+        "AAPL_Volume": 128561,
+        "AAPL_Adj Close": 1750.2
+    },
+    {
+        "t": 1668988800,
+        "AAPL_Open": 1751.15,
+        "AAPL_High": 1752.94,
+        "AAPL_Low": 1732.51,
+        "AAPL_Close": 1737.68,
+        "AAPL_Volume": 115515,
+        "AAPL_Adj Close": 1737.68
+    },
+    {
+        "t": 1669075200,
+        "AAPL_Open": 1737.97,
+        "AAPL_High": 1749.79,
+        "AAPL_Low": 1737.03,
+        "AAPL_Close": 1739.92,
+        "AAPL_Volume": 118421,
+        "AAPL_Adj Close": 1739.92
+    },
+    {
+        "t": 1669161600,
+        "AAPL_Open": 1739.98,
+        "AAPL_High": 1753.32,
+        "AAPL_Low": 1726.62,
+        "AAPL_Close": 1749.4,
+        "AAPL_Volume": 121834,
+        "AAPL_Adj Close": 1749.4
+    },
+    {
+        "t": 1669248000,
+        "AAPL_Open": 1748.86,
+        "AAPL_High": 1758.6,
+        "AAPL_Low": 1748.86,
+        "AAPL_Close": 1755.08,
+        "AAPL_Volume": 101592,
+        "AAPL_Adj Close": 1755.08
+    },
+    {
+        "t": 1669334400,
+        "AAPL_Open": 1754.84,
+        "AAPL_High": 1761.13,
+        "AAPL_Low": 1745.95,
+        "AAPL_Close": 1754.32,
+        "AAPL_Volume": 110263,
+        "AAPL_Adj Close": 1754.32
+    },
+    {
+        "t": 1669593600,
+        "AAPL_Open": 1754.39,
+        "AAPL_High": 1763.72,
+        "AAPL_Low": 1739.59,
+        "AAPL_Close": 1741.46,
+        "AAPL_Volume": 125976,
+        "AAPL_Adj Close": 1741.46
+    },
+    {
+        "t": 1669680000,
+        "AAPL_Open": 1740.47,
+        "AAPL_High": 1758.98,
+        "AAPL_Low": 1739.43,
+        "AAPL_Close": 1749.64,
+        "AAPL_Volume": 126039,
+        "AAPL_Adj Close": 1749.64
+    },
+    {
+        "t": 1669766400,
+        "AAPL_Open": 1749.21,
+        "AAPL_High": 1769.99,
+        "AAPL_Low": 1744.89,
+        "AAPL_Close": 1768.4,
+        "AAPL_Volume": 135219,
+        "AAPL_Adj Close": 1768.4
+    },
+    {
+        "t": 1669852800,
+        "AAPL_Open": 1768.27,
+        "AAPL_High": 1804,
+        "AAPL_Low": 1768.19,
+        "AAPL_Close": 1802.82,
+        "AAPL_Volume": 156012,
+        "AAPL_Adj Close": 1802.82
+    },
+    {
+        "t": 1669939200,
+        "AAPL_Open": 1802.1,
+        "AAPL_High": 1804.41,
+        "AAPL_Low": 1778.64,
+        "AAPL_Close": 1798.68,
+        "AAPL_Volume": 140808,
+        "AAPL_Adj Close": 1798.68
+    },
+    {
+        "t": 1670198400,
+        "AAPL_Open": 1796.34,
+        "AAPL_High": 1809.89,
+        "AAPL_Low": 1765.82,
+        "AAPL_Close": 1768.61,
+        "AAPL_Volume": 148763,
+        "AAPL_Adj Close": 1768.61
+    },
+    {
+        "t": 1670284800,
+        "AAPL_Open": 1768.37,
+        "AAPL_High": 1780.84,
+        "AAPL_Low": 1767.24,
+        "AAPL_Close": 1771,
+        "AAPL_Volume": 128974,
+        "AAPL_Adj Close": 1771
+    },
+    {
+        "t": 1670371200,
+        "AAPL_Open": 1770.76,
+        "AAPL_High": 1790.52,
+        "AAPL_Low": 1768.68,
+        "AAPL_Close": 1785.99,
+        "AAPL_Volume": 138109,
+        "AAPL_Adj Close": 1785.99
+    },
+    {
+        "t": 1670457600,
+        "AAPL_Open": 1786.17,
+        "AAPL_High": 1794.82,
+        "AAPL_Low": 1781.4,
+        "AAPL_Close": 1788.89,
+        "AAPL_Volume": 127841,
+        "AAPL_Adj Close": 1788.89
+    },
+    {
+        "t": 1670544000,
+        "AAPL_Open": 1789.69,
+        "AAPL_High": 1806.1,
+        "AAPL_Low": 1788.48,
+        "AAPL_Close": 1796.88,
+        "AAPL_Volume": 128041,
+        "AAPL_Adj Close": 1796.88
+    },
+    {
+        "t": 1670803200,
+        "AAPL_Open": 1796.47,
+        "AAPL_High": 1797.15,
+        "AAPL_Low": 1777.58,
+        "AAPL_Close": 1781.27,
+        "AAPL_Volume": 113277,
+        "AAPL_Adj Close": 1781.27
+    },
+    {
+        "t": 1670889600,
+        "AAPL_Open": 1781.08,
+        "AAPL_High": 1824.53,
+        "AAPL_Low": 1780.74,
+        "AAPL_Close": 1810.47,
+        "AAPL_Volume": 146499,
+        "AAPL_Adj Close": 1810.47
+    },
+    {
+        "t": 1670976000,
+        "AAPL_Open": 1810.47,
+        "AAPL_High": 1813.99,
+        "AAPL_Low": 1795.28,
+        "AAPL_Close": 1807.25,
+        "AAPL_Volume": 145736,
+        "AAPL_Adj Close": 1807.25
+    },
+    {
+        "t": 1671062400,
+        "AAPL_Open": 1806.7,
+        "AAPL_High": 1808.61,
+        "AAPL_Low": 1773.73,
+        "AAPL_Close": 1776.7,
+        "AAPL_Volume": 183467,
+        "AAPL_Adj Close": 1776.7
+    },
+    {
+        "t": 1671148800,
+        "AAPL_Open": 1776.83,
+        "AAPL_High": 1794.25,
+        "AAPL_Low": 1774.29,
+        "AAPL_Close": 1792.91,
+        "AAPL_Volume": 126065,
+        "AAPL_Adj Close": 1792.91
+    },
+    {
+        "t": 1671408000,
+        "AAPL_Open": 1792.85,
+        "AAPL_High": 1798.74,
+        "AAPL_Low": 1783.76,
+        "AAPL_Close": 1787.58,
+        "AAPL_Volume": 111696,
+        "AAPL_Adj Close": 1787.58
+    },
+    {
+        "t": 1671494400,
+        "AAPL_Open": 1787.62,
+        "AAPL_High": 1821.15,
+        "AAPL_Low": 1784.56,
+        "AAPL_Close": 1817.6,
+        "AAPL_Volume": 172438,
+        "AAPL_Adj Close": 1817.6
+    },
+    {
+        "t": 1671580800,
+        "AAPL_Open": 1817.93,
+        "AAPL_High": 1823.8,
+        "AAPL_Low": 1811.83,
+        "AAPL_Close": 1814.07,
+        "AAPL_Volume": 120896,
+        "AAPL_Adj Close": 1814.07
+    },
+    {
+        "t": 1671667200,
+        "AAPL_Open": 1813.85,
+        "AAPL_High": 1820.41,
+        "AAPL_Low": 1784.85,
+        "AAPL_Close": 1792.38,
+        "AAPL_Volume": 128516,
+        "AAPL_Adj Close": 1792.38
+    },
+    {
+        "t": 1671753600,
+        "AAPL_Open": 1792.71,
+        "AAPL_High": 1803.22,
+        "AAPL_Low": 1791.14,
+        "AAPL_Close": 1798.15,
+        "AAPL_Volume": 117201,
+        "AAPL_Adj Close": 1798.15
+    },
+    {
+        "t": 1672099200,
+        "AAPL_Open": 1800.55,
+        "AAPL_High": 1833.2,
+        "AAPL_Low": 1800.09,
+        "AAPL_Close": 1813.48,
+        "AAPL_Volume": 122966,
+        "AAPL_Adj Close": 1813.48
+    },
+    {
+        "t": 1672185600,
+        "AAPL_Open": 1813.3,
+        "AAPL_High": 1814.49,
+        "AAPL_Low": 1797.02,
+        "AAPL_Close": 1804.22,
+        "AAPL_Volume": 104115,
+        "AAPL_Adj Close": 1804.22
+    },
+    {
+        "t": 1672272000,
+        "AAPL_Open": 1804.24,
+        "AAPL_High": 1820.13,
+        "AAPL_Low": 1803.68,
+        "AAPL_Close": 1814.78,
+        "AAPL_Volume": 105956,
+        "AAPL_Adj Close": 1814.78
+    },
+    {
+        "t": 1672358400,
+        "AAPL_Open": 1813.93,
+        "AAPL_High": 1826.1,
+        "AAPL_Low": 1813.3,
+        "AAPL_Close": 1824.32,
+        "AAPL_Volume": 129602,
+        "AAPL_Adj Close": 1824.32
+    },
+    {
+        "t": 1672704000,
+        "AAPL_Open": 1826.72,
+        "AAPL_High": 1849.91,
+        "AAPL_Low": 1823.56,
+        "AAPL_Close": 1839.47,
+        "AAPL_Volume": 153552,
+        "AAPL_Adj Close": 1839.47
+    },
+    {
+        "t": 1672790400,
+        "AAPL_Open": 1838.83,
+        "AAPL_High": 1865.12,
+        "AAPL_Low": 1836.12,
+        "AAPL_Close": 1854.61,
+        "AAPL_Volume": 155989,
+        "AAPL_Adj Close": 1854.61
+    },
+    {
+        "t": 1672876800,
+        "AAPL_Open": 1854.61,
+        "AAPL_High": 1858.95,
+        "AAPL_Low": 1825.06,
+        "AAPL_Close": 1832.87,
+        "AAPL_Volume": 141522,
+        "AAPL_Adj Close": 1832.87
+    },
+    {
+        "t": 1672963200,
+        "AAPL_Open": 1829.35,
+        "AAPL_High": 1869.8,
+        "AAPL_Low": 1829.35,
+        "AAPL_Close": 1866.45,
+        "AAPL_Volume": 138590,
+        "AAPL_Adj Close": 1866.45
+    },
+    {
+        "t": 1673222400,
+        "AAPL_Open": 1867.51,
+        "AAPL_High": 1881.48,
+        "AAPL_Low": 1866.31,
+        "AAPL_Close": 1871.63,
+        "AAPL_Volume": 138966,
+        "AAPL_Adj Close": 1871.63
+    },
+    {
+        "t": 1673308800,
+        "AAPL_Open": 1871.44,
+        "AAPL_High": 1880.71,
+        "AAPL_Low": 1867.71,
+        "AAPL_Close": 1876.89,
+        "AAPL_Volume": 149456,
+        "AAPL_Adj Close": 1876.89
+    },
+    {
+        "t": 1673395200,
+        "AAPL_Open": 1876.7,
+        "AAPL_High": 1886.54,
+        "AAPL_Low": 1867.08,
+        "AAPL_Close": 1875.68,
+        "AAPL_Volume": 147405,
+        "AAPL_Adj Close": 1875.68
+    },
+    {
+        "t": 1673481600,
+        "AAPL_Open": 1875.21,
+        "AAPL_High": 1901.58,
+        "AAPL_Low": 1872.15,
+        "AAPL_Close": 1896.72,
+        "AAPL_Volume": 165124,
+        "AAPL_Adj Close": 1896.72
+    },
+    {
+        "t": 1673568000,
+        "AAPL_Open": 1895.67,
+        "AAPL_High": 1921.88,
+        "AAPL_Low": 1892.25,
+        "AAPL_Close": 1920.56,
+        "AAPL_Volume": 166879,
+        "AAPL_Adj Close": 1920.56
+    },
+    {
+        "t": 1673827200,
+        "AAPL_Open": 1919.38,
+        "AAPL_High": 1928.91,
+        "AAPL_Low": 1910.82,
+        "AAPL_Close": 1915.63,
+        "AAPL_Volume": 107071,
+        "AAPL_Adj Close": 1915.63
+    },
+    {
+        "t": 1673913600,
+        "AAPL_Open": 1914.86,
+        "AAPL_High": 1918.98,
+        "AAPL_Low": 1903.72,
+        "AAPL_Close": 1908.49,
+        "AAPL_Volume": 153495,
+        "AAPL_Adj Close": 1908.49
+    },
+    {
+        "t": 1674000000,
+        "AAPL_Open": 1908.46,
+        "AAPL_High": 1925.89,
+        "AAPL_Low": 1896.51,
+        "AAPL_Close": 1904.24,
+        "AAPL_Volume": 177809,
+        "AAPL_Adj Close": 1904.24
+    },
+    {
+        "t": 1674086400,
+        "AAPL_Open": 1904.36,
+        "AAPL_High": 1935.16,
+        "AAPL_Low": 1900.9,
+        "AAPL_Close": 1932.07,
+        "AAPL_Volume": 170839,
+        "AAPL_Adj Close": 1932.07
+    },
+    {
+        "t": 1674172800,
+        "AAPL_Open": 1932.25,
+        "AAPL_High": 1937.47,
+        "AAPL_Low": 1920.65,
+        "AAPL_Close": 1926.79,
+        "AAPL_Volume": 146626,
+        "AAPL_Adj Close": 1926.79
+    },
+    {
+        "t": 1674432000,
+        "AAPL_Open": 1925.89,
+        "AAPL_High": 1935.45,
+        "AAPL_Low": 1911.33,
+        "AAPL_Close": 1930.8,
+        "AAPL_Volume": 144885,
+        "AAPL_Adj Close": 1930.8
+    },
+    {
+        "t": 1674518400,
+        "AAPL_Open": 1931.05,
+        "AAPL_High": 1942.44,
+        "AAPL_Low": 1917.14,
+        "AAPL_Close": 1937.24,
+        "AAPL_Volume": 140293,
+        "AAPL_Adj Close": 1937.24
+    },
+    {
+        "t": 1674604800,
+        "AAPL_Open": 1937.17,
+        "AAPL_High": 1947.99,
+        "AAPL_Low": 1919.83,
+        "AAPL_Close": 1946.12,
+        "AAPL_Volume": 140638,
+        "AAPL_Adj Close": 1946.12
+    },
+    {
+        "t": 1674691200,
+        "AAPL_Open": 1946.5,
+        "AAPL_High": 1949.1,
+        "AAPL_Low": 1918.54,
+        "AAPL_Close": 1929.04,
+        "AAPL_Volume": 145927,
+        "AAPL_Adj Close": 1929.04
+    },
+    {
+        "t": 1674777600,
+        "AAPL_Open": 1927.72,
+        "AAPL_High": 1935.05,
+        "AAPL_Low": 1916.71,
+        "AAPL_Close": 1928.5,
+        "AAPL_Volume": 132736,
+        "AAPL_Adj Close": 1928.5
+    },
+    {
+        "t": 1675036800,
+        "AAPL_Open": 1927.87,
+        "AAPL_High": 1934.4,
+        "AAPL_Low": 1920.64,
+        "AAPL_Close": 1923.07,
+        "AAPL_Volume": 138672,
+        "AAPL_Adj Close": 1923.07
+    },
+    {
+        "t": 1675123200,
+        "AAPL_Open": 1921.25,
+        "AAPL_High": 1930.98,
+        "AAPL_Low": 1900.87,
+        "AAPL_Close": 1928.06,
+        "AAPL_Volume": 150199,
+        "AAPL_Adj Close": 1928.06
+    },
+    {
+        "t": 1675209600,
+        "AAPL_Open": 1928.42,
+        "AAPL_High": 1954.47,
+        "AAPL_Low": 1920.57,
+        "AAPL_Close": 1950.06,
+        "AAPL_Volume": 156174,
+        "AAPL_Adj Close": 1950.06
+    },
+    {
+        "t": 1675296000,
+        "AAPL_Open": 1951.17,
+        "AAPL_High": 1959.67,
+        "AAPL_Low": 1911.28,
+        "AAPL_Close": 1912.57,
+        "AAPL_Volume": 182465,
+        "AAPL_Adj Close": 1912.57
+    },
+    {
+        "t": 1675382400,
+        "AAPL_Open": 1911.65,
+        "AAPL_High": 1918.55,
+        "AAPL_Low": 1861.25,
+        "AAPL_Close": 1865.71,
+        "AAPL_Volume": 174027,
+        "AAPL_Adj Close": 1865.71
+    },
+    {
+        "t": 1675641600,
+        "AAPL_Open": 1861.75,
+        "AAPL_High": 1881.33,
+        "AAPL_Low": 1859.92,
+        "AAPL_Close": 1867.56,
+        "AAPL_Volume": 167580,
+        "AAPL_Adj Close": 1867.56
+    },
+    {
+        "t": 1675728000,
+        "AAPL_Open": 1867.29,
+        "AAPL_High": 1884.28,
+        "AAPL_Low": 1864.93,
+        "AAPL_Close": 1873.66,
+        "AAPL_Volume": 165924,
+        "AAPL_Adj Close": 1873.66
+    },
+    {
+        "t": 1675814400,
+        "AAPL_Open": 1873.05,
+        "AAPL_High": 1886.21,
+        "AAPL_Low": 1869.02,
+        "AAPL_Close": 1875.42,
+        "AAPL_Volume": 138071,
+        "AAPL_Adj Close": 1875.42
+    },
+    {
+        "t": 1675900800,
+        "AAPL_Open": 1875.49,
+        "AAPL_High": 1890.22,
+        "AAPL_Low": 1858.89,
+        "AAPL_Close": 1861.54,
+        "AAPL_Volume": 147509,
+        "AAPL_Adj Close": 1861.54
+    },
+    {
+        "t": 1675987200,
+        "AAPL_Open": 1861.83,
+        "AAPL_High": 1872.15,
+        "AAPL_Low": 1852.73,
+        "AAPL_Close": 1865.29,
+        "AAPL_Volume": 158810,
+        "AAPL_Adj Close": 1865.29
+    },
+    {
+        "t": 1676246400,
+        "AAPL_Open": 1864.73,
+        "AAPL_High": 1866.58,
+        "AAPL_Low": 1850.46,
+        "AAPL_Close": 1853.36,
+        "AAPL_Volume": 129700,
+        "AAPL_Adj Close": 1853.36
+    },
+    {
+        "t": 1676332800,
+        "AAPL_Open": 1853.43,
+        "AAPL_High": 1870.57,
+        "AAPL_Low": 1843.25,
+        "AAPL_Close": 1854.34,
+        "AAPL_Volume": 153431,
+        "AAPL_Adj Close": 1854.34
+    },
+    {
+        "t": 1676419200,
+        "AAPL_Open": 1854.39,
+        "AAPL_High": 1860.01,
+        "AAPL_Low": 1830.5,
+        "AAPL_Close": 1835.79,
+        "AAPL_Volume": 149337,
+        "AAPL_Adj Close": 1835.79
+    },
+    {
+        "t": 1676505600,
+        "AAPL_Open": 1836.08,
+        "AAPL_High": 1845.25,
+        "AAPL_Low": 1827.6,
+        "AAPL_Close": 1836.37,
+        "AAPL_Volume": 150521,
+        "AAPL_Adj Close": 1836.37
+    },
+    {
+        "t": 1676592000,
+        "AAPL_Open": 1836.68,
+        "AAPL_High": 1843.56,
+        "AAPL_Low": 1818.89,
+        "AAPL_Close": 1841.88,
+        "AAPL_Volume": 147935,
+        "AAPL_Adj Close": 1841.88
+    },
+    {
+        "t": 1676851200,
+        "AAPL_Open": 1840.68,
+        "AAPL_High": 1847.46,
+        "AAPL_Low": 1837.23,
+        "AAPL_Close": 1841.18,
+        "AAPL_Volume": 86528,
+        "AAPL_Adj Close": 1841.18
+    },
+    {
+        "t": 1676937600,
+        "AAPL_Open": 1841.62,
+        "AAPL_High": 1843.8,
+        "AAPL_Low": 1830.21,
+        "AAPL_Close": 1834.9,
+        "AAPL_Volume": 144011,
+        "AAPL_Adj Close": 1834.9
+    },
+    {
+        "t": 1677024000,
+        "AAPL_Open": 1835.04,
+        "AAPL_High": 1846.01,
+        "AAPL_Low": 1823.51,
+        "AAPL_Close": 1825.14,
+        "AAPL_Volume": 148937,
+        "AAPL_Adj Close": 1825.14
+    },
+    {
+        "t": 1677110400,
+        "AAPL_Open": 1825.28,
+        "AAPL_High": 1833.65,
+        "AAPL_Low": 1817.47,
+        "AAPL_Close": 1822.24,
+        "AAPL_Volume": 141984,
+        "AAPL_Adj Close": 1822.24
+    },
+    {
+        "t": 1677196800,
+        "AAPL_Open": 1822.1,
+        "AAPL_High": 1827.77,
+        "AAPL_Low": 1808.89,
+        "AAPL_Close": 1811.14,
+        "AAPL_Volume": 150334,
+        "AAPL_Adj Close": 1811.14
+    },
+    {
+        "t": 1677456000,
+        "AAPL_Open": 1810.76,
+        "AAPL_High": 1820.1,
+        "AAPL_Low": 1806.59,
+        "AAPL_Close": 1817.17,
+        "AAPL_Volume": 139438,
+        "AAPL_Adj Close": 1817.17
+    },
+    {
+        "t": 1677542400,
+        "AAPL_Open": 1816.83,
+        "AAPL_High": 1831.1,
+        "AAPL_Low": 1804.72,
+        "AAPL_Close": 1826.63,
+        "AAPL_Volume": 139771,
+        "AAPL_Adj Close": 1826.63
+    },
+    {
+        "t": 1677628800,
+        "AAPL_Open": 1826.63,
+        "AAPL_High": 1844.5,
+        "AAPL_Low": 1823.05,
+        "AAPL_Close": 1836.55,
+        "AAPL_Volume": 150582,
+        "AAPL_Adj Close": 1836.55
+    },
+    {
+        "t": 1677715200,
+        "AAPL_Open": 1836.76,
+        "AAPL_High": 1838.93,
+        "AAPL_Low": 1829.94,
+        "AAPL_Close": 1835.57,
+        "AAPL_Volume": 139275,
+        "AAPL_Adj Close": 1835.57
+    },
+    {
+        "t": 1677801600,
+        "AAPL_Open": 1835.57,
+        "AAPL_High": 1856.27,
+        "AAPL_Low": 1835.57,
+        "AAPL_Close": 1854.65,
+        "AAPL_Volume": 131532,
+        "AAPL_Adj Close": 1854.65
+    },
+    {
+        "t": 1678060800,
+        "AAPL_Open": 1855.24,
+        "AAPL_High": 1858.24,
+        "AAPL_Low": 1845.06,
+        "AAPL_Close": 1846.56,
+        "AAPL_Volume": 127488,
+        "AAPL_Adj Close": 1846.56
+    },
+    {
+        "t": 1678147200,
+        "AAPL_Open": 1846.39,
+        "AAPL_High": 1851.62,
+        "AAPL_Low": 1812.66,
+        "AAPL_Close": 1812.94,
+        "AAPL_Volume": 148432,
+        "AAPL_Adj Close": 1812.94
+    },
+    {
+        "t": 1678233600,
+        "AAPL_Open": 1813.49,
+        "AAPL_High": 1824.2,
+        "AAPL_Low": 1809.38,
+        "AAPL_Close": 1813.66,
+        "AAPL_Volume": 139931,
+        "AAPL_Adj Close": 1813.66
+    },
+    {
+        "t": 1678320000,
+        "AAPL_Open": 1813.77,
+        "AAPL_High": 1835.59,
+        "AAPL_Low": 1811.9,
+        "AAPL_Close": 1830.74,
+        "AAPL_Volume": 137180,
+        "AAPL_Adj Close": 1830.74
+    },
+    {
+        "t": 1678406400,
+        "AAPL_Open": 1831.12,
+        "AAPL_High": 1870.09,
+        "AAPL_Low": 1827.7,
+        "AAPL_Close": 1867.33,
+        "AAPL_Volume": 190537,
+        "AAPL_Adj Close": 1867.33
+    },
+    {
+        "t": 1678665600,
+        "AAPL_Open": 1880.85,
+        "AAPL_High": 1914.57,
+        "AAPL_Low": 1871.45,
+        "AAPL_Close": 1913.54,
+        "AAPL_Volume": 260485,
+        "AAPL_Adj Close": 1913.54
+    },
+    {
+        "t": 1678752000,
+        "AAPL_Open": 1913.45,
+        "AAPL_High": 1914.1,
+        "AAPL_Low": 1895.39,
+        "AAPL_Close": 1903.89,
+        "AAPL_Volume": 202409,
+        "AAPL_Adj Close": 1903.89
+    },
+    {
+        "t": 1678838400,
+        "AAPL_Open": 1903.48,
+        "AAPL_High": 1937.28,
+        "AAPL_Low": 1885.66,
+        "AAPL_Close": 1918.09,
+        "AAPL_Volume": 218388,
+        "AAPL_Adj Close": 1918.09
+    },
+    {
+        "t": 1678924800,
+        "AAPL_Open": 1918.23,
+        "AAPL_High": 1933.41,
+        "AAPL_Low": 1907.51,
+        "AAPL_Close": 1919.28,
+        "AAPL_Volume": 209384,
+        "AAPL_Adj Close": 1919.28
+    },
+    {
+        "t": 1679011200,
+        "AAPL_Open": 1920.46,
+        "AAPL_High": 1987.72,
+        "AAPL_Low": 1918.2,
+        "AAPL_Close": 1985.84,
+        "AAPL_Volume": 198143,
+        "AAPL_Adj Close": 1985.84
+    },
+    {
+        "t": 1679270400,
+        "AAPL_Open": 1982.74,
+        "AAPL_High": 2009.74,
+        "AAPL_Low": 1965.78,
+        "AAPL_Close": 1978.67,
+        "AAPL_Volume": 230928,
+        "AAPL_Adj Close": 1978.67
+    },
+    {
+        "t": 1679356800,
+        "AAPL_Open": 1978.77,
+        "AAPL_High": 1985.15,
+        "AAPL_Low": 1935.36,
+        "AAPL_Close": 1940.46,
+        "AAPL_Volume": 178310,
+        "AAPL_Adj Close": 1940.46
+    },
+    {
+        "t": 1679443200,
+        "AAPL_Open": 1939.46,
+        "AAPL_High": 1978.74,
+        "AAPL_Low": 1934.24,
+        "AAPL_Close": 1969.55,
+        "AAPL_Volume": 183550,
+        "AAPL_Adj Close": 1969.55
+    },
+    {
+        "t": 1679529600,
+        "AAPL_Open": 1970.21,
+        "AAPL_High": 2003.28,
+        "AAPL_Low": 1964.63,
+        "AAPL_Close": 1993.64,
+        "AAPL_Volume": 211353,
+        "AAPL_Adj Close": 1993.64
+    },
+    {
+        "t": 1679616000,
+        "AAPL_Open": 1993.13,
+        "AAPL_High": 2002.87,
+        "AAPL_Low": 1975.14,
+        "AAPL_Close": 1977.67,
+        "AAPL_Volume": 200981,
+        "AAPL_Adj Close": 1977.67
+    },
+    {
+        "t": 1679875200,
+        "AAPL_Open": 1978.35,
+        "AAPL_High": 1979.53,
+        "AAPL_Low": 1943.99,
+        "AAPL_Close": 1956.33,
+        "AAPL_Volume": 172046,
+        "AAPL_Adj Close": 1956.33
+    },
+    {
+        "t": 1679961600,
+        "AAPL_Open": 1956.26,
+        "AAPL_High": 1975.24,
+        "AAPL_Low": 1949.1,
+        "AAPL_Close": 1973.48,
+        "AAPL_Volume": 158053,
+        "AAPL_Adj Close": 1973.48
+    },
+    {
+        "t": 1680048000,
+        "AAPL_Open": 1973.26,
+        "AAPL_High": 1974.33,
+        "AAPL_Low": 1958.63,
+        "AAPL_Close": 1964.33,
+        "AAPL_Volume": 141812,
+        "AAPL_Adj Close": 1964.33
+    },
+    {
+        "t": 1680134400,
+        "AAPL_Open": 1963.71,
+        "AAPL_High": 1984.29,
+        "AAPL_Low": 1955.32,
+        "AAPL_Close": 1980.17,
+        "AAPL_Volume": 151212,
+        "AAPL_Adj Close": 1980.17
+    },
+    {
+        "t": 1680220800,
+        "AAPL_Open": 1980.41,
+        "AAPL_High": 1987.55,
+        "AAPL_Low": 1966.86,
+        "AAPL_Close": 1969.29,
+        "AAPL_Volume": 155582,
+        "AAPL_Adj Close": 1969.29
+    },
+    {
+        "t": 1680480000,
+        "AAPL_Open": 1970.43,
+        "AAPL_High": 1990.46,
+        "AAPL_Low": 1949.7,
+        "AAPL_Close": 1984.37,
+        "AAPL_Volume": 159889,
+        "AAPL_Adj Close": 1984.37
+    },
+    {
+        "t": 1680566400,
+        "AAPL_Open": 1984.2,
+        "AAPL_High": 2024.93,
+        "AAPL_Low": 1976.92,
+        "AAPL_Close": 2020.47,
+        "AAPL_Volume": 154913,
+        "AAPL_Adj Close": 2020.47
+    },
+    {
+        "t": 1680652800,
+        "AAPL_Open": 2019.95,
+        "AAPL_High": 2032.04,
+        "AAPL_Low": 2009.94,
+        "AAPL_Close": 2020.7,
+        "AAPL_Volume": 146847,
+        "AAPL_Adj Close": 2020.7
+    },
+    {
+        "t": 1680739200,
+        "AAPL_Open": 2020.83,
+        "AAPL_High": 2021.31,
+        "AAPL_Low": 2000.79,
+        "AAPL_Close": 2007.01,
+        "AAPL_Volume": 129078,
+        "AAPL_Adj Close": 2007.01
+    },
+    {
+        "t": 1681084800,
+        "AAPL_Open": 1996.07,
+        "AAPL_High": 2006.39,
+        "AAPL_Low": 1981.63,
+        "AAPL_Close": 1991.14,
+        "AAPL_Volume": 122353,
+        "AAPL_Adj Close": 1991.14
+    },
+    {
+        "t": 1681171200,
+        "AAPL_Open": 1990.92,
+        "AAPL_High": 2007.43,
+        "AAPL_Low": 1988.72,
+        "AAPL_Close": 2003.54,
+        "AAPL_Volume": 128567,
+        "AAPL_Adj Close": 2003.54
+    },
+    {
+        "t": 1681257600,
+        "AAPL_Open": 2003.45,
+        "AAPL_High": 2028.17,
+        "AAPL_Low": 2001.37,
+        "AAPL_Close": 2014.89,
+        "AAPL_Volume": 156596,
+        "AAPL_Adj Close": 2014.89
+    },
+    {
+        "t": 1681344000,
+        "AAPL_Open": 2014.36,
+        "AAPL_High": 2048.65,
+        "AAPL_Low": 2013.77,
+        "AAPL_Close": 2039.94,
+        "AAPL_Volume": 144579,
+        "AAPL_Adj Close": 2039.94
+    },
+    {
+        "t": 1681430400,
+        "AAPL_Open": 2040.33,
+        "AAPL_High": 2047.34,
+        "AAPL_Low": 1992.34,
+        "AAPL_Close": 2004.54,
+        "AAPL_Volume": 163623,
+        "AAPL_Adj Close": 2004.54
+    },
+    {
+        "t": 1681689600,
+        "AAPL_Open": 1998.5,
+        "AAPL_High": 2015,
+        "AAPL_Low": 1981.18,
+        "AAPL_Close": 1994.88,
+        "AAPL_Volume": 148414,
+        "AAPL_Adj Close": 1994.88
+    },
+    {
+        "t": 1681776000,
+        "AAPL_Open": 1994.83,
+        "AAPL_High": 2011.8,
+        "AAPL_Low": 1991.18,
+        "AAPL_Close": 2005.23,
+        "AAPL_Volume": 137554,
+        "AAPL_Adj Close": 2005.23
+    },
+    {
+        "t": 1681862400,
+        "AAPL_Open": 2005.12,
+        "AAPL_High": 2008.09,
+        "AAPL_Low": 1969.19,
+        "AAPL_Close": 1994.71,
+        "AAPL_Volume": 159992,
+        "AAPL_Adj Close": 1994.71
+    },
+    {
+        "t": 1681948800,
+        "AAPL_Open": 1994.12,
+        "AAPL_High": 2012.31,
+        "AAPL_Low": 1990.43,
+        "AAPL_Close": 2004.56,
+        "AAPL_Volume": 150186,
+        "AAPL_Adj Close": 2004.56
+    },
+    {
+        "t": 1682035200,
+        "AAPL_Open": 2003.94,
+        "AAPL_High": 2005.47,
+        "AAPL_Low": 1971.62,
+        "AAPL_Close": 1982.65,
+        "AAPL_Volume": 149676,
+        "AAPL_Adj Close": 1982.65
+    },
+    {
+        "t": 1682294400,
+        "AAPL_Open": 1981.08,
+        "AAPL_High": 1990.81,
+        "AAPL_Low": 1974.09,
+        "AAPL_Close": 1989.01,
+        "AAPL_Volume": 139334,
+        "AAPL_Adj Close": 1989.01
+    },
+    {
+        "t": 1682380800,
+        "AAPL_Open": 1988.83,
+        "AAPL_High": 2003.8,
+        "AAPL_Low": 1976.05,
+        "AAPL_Close": 1997.08,
+        "AAPL_Volume": 161840,
+        "AAPL_Adj Close": 1997.08
+    },
+    {
+        "t": 1682467200,
+        "AAPL_Open": 1996.66,
+        "AAPL_High": 2009.22,
+        "AAPL_Low": 1983.3,
+        "AAPL_Close": 1989.15,
+        "AAPL_Volume": 174724,
+        "AAPL_Adj Close": 1989.15
+    },
+    {
+        "t": 1682553600,
+        "AAPL_Open": 1989.97,
+        "AAPL_High": 2003.16,
+        "AAPL_Low": 1974.2,
+        "AAPL_Close": 1987.69,
+        "AAPL_Volume": 157632,
+        "AAPL_Adj Close": 1987.69
+    },
+    {
+        "t": 1682640000,
+        "AAPL_Open": 1987.99,
+        "AAPL_High": 1994.93,
+        "AAPL_Low": 1976.27,
+        "AAPL_Close": 1989.67,
+        "AAPL_Volume": 166494,
+        "AAPL_Adj Close": 1989.67
+    },
+    {
+        "t": 1682899200,
+        "AAPL_Open": 1990.74,
+        "AAPL_High": 2005.98,
+        "AAPL_Low": 1977.04,
+        "AAPL_Close": 1982.48,
+        "AAPL_Volume": 133575,
+        "AAPL_Adj Close": 1982.48
+    },
+    {
+        "t": 1682985600,
+        "AAPL_Open": 1981.63,
+        "AAPL_High": 2019.31,
+        "AAPL_Low": 1978.42,
+        "AAPL_Close": 2016.61,
+        "AAPL_Volume": 153301,
+        "AAPL_Adj Close": 2016.61
+    },
+    {
+        "t": 1683072000,
+        "AAPL_Open": 2016.6,
+        "AAPL_High": 2040.33,
+        "AAPL_Low": 2007.23,
+        "AAPL_Close": 2038.52,
+        "AAPL_Volume": 149190,
+        "AAPL_Adj Close": 2038.52
+    },
+    {
+        "t": 1683158400,
+        "AAPL_Open": 2044.73,
+        "AAPL_High": 2075.4,
+        "AAPL_Low": 2030.33,
+        "AAPL_Close": 2049.98,
+        "AAPL_Volume": 211183,
+        "AAPL_Adj Close": 2049.98
+    },
+    {
+        "t": 1683244800,
+        "AAPL_Open": 2049.73,
+        "AAPL_High": 2052.93,
+        "AAPL_Low": 1999.46,
+        "AAPL_Close": 2015.8,
+        "AAPL_Volume": 157566,
+        "AAPL_Adj Close": 2015.8
+    },
+    {
+        "t": 1683504000,
+        "AAPL_Open": 2015.96,
+        "AAPL_High": 2029.35,
+        "AAPL_Low": 2014.22,
+        "AAPL_Close": 2021.44,
+        "AAPL_Volume": 128980,
+        "AAPL_Adj Close": 2021.44
+    },
+    {
+        "t": 1683590400,
+        "AAPL_Open": 2020.84,
+        "AAPL_High": 2037.57,
+        "AAPL_Low": 2019.47,
+        "AAPL_Close": 2034.38,
+        "AAPL_Volume": 130151,
+        "AAPL_Adj Close": 2034.38
+    },
+    {
+        "t": 1683676800,
+        "AAPL_Open": 2033.83,
+        "AAPL_High": 2048.12,
+        "AAPL_Low": 2021.47,
+        "AAPL_Close": 2030.18,
+        "AAPL_Volume": 146607,
+        "AAPL_Adj Close": 2030.18
+    },
+    {
+        "t": 1683763200,
+        "AAPL_Open": 2030.01,
+        "AAPL_High": 2041.1,
+        "AAPL_Low": 2011.11,
+        "AAPL_Close": 2014.88,
+        "AAPL_Volume": 161552,
+        "AAPL_Adj Close": 2014.88
+    },
+    {
+        "t": 1683849600,
+        "AAPL_Open": 2014.84,
+        "AAPL_High": 2022.54,
+        "AAPL_Low": 2000.88,
+        "AAPL_Close": 2010.71,
+        "AAPL_Volume": 151533,
+        "AAPL_Adj Close": 2010.71
+    },
+    {
+        "t": 1684108800,
+        "AAPL_Open": 2007.52,
+        "AAPL_High": 2022.13,
+        "AAPL_Low": 2007.26,
+        "AAPL_Close": 2016.34,
+        "AAPL_Volume": 130071,
+        "AAPL_Adj Close": 2016.34
+    },
+    {
+        "t": 1684195200,
+        "AAPL_Open": 2015.83,
+        "AAPL_High": 2018.27,
+        "AAPL_Low": 1985.42,
+        "AAPL_Close": 1988.73,
+        "AAPL_Volume": 147508,
+        "AAPL_Adj Close": 1988.73
+    },
+    {
+        "t": 1684281600,
+        "AAPL_Open": 1989.06,
+        "AAPL_High": 1992.96,
+        "AAPL_Low": 1975,
+        "AAPL_Close": 1981.51,
+        "AAPL_Volume": 138519,
+        "AAPL_Adj Close": 1981.51
+    },
+    {
+        "t": 1684368000,
+        "AAPL_Open": 1981.05,
+        "AAPL_High": 1985.95,
+        "AAPL_Low": 1951.91,
+        "AAPL_Close": 1957.39,
+        "AAPL_Volume": 140074,
+        "AAPL_Adj Close": 1957.39
+    },
+    {
+        "t": 1684454400,
+        "AAPL_Open": 1957.78,
+        "AAPL_High": 1984.12,
+        "AAPL_Low": 1953.96,
+        "AAPL_Close": 1977.58,
+        "AAPL_Volume": 158140,
+        "AAPL_Adj Close": 1977.58
+    },
+    {
+        "t": 1684713600,
+        "AAPL_Open": 1977.43,
+        "AAPL_High": 1982.61,
+        "AAPL_Low": 1968.84,
+        "AAPL_Close": 1971.65,
+        "AAPL_Volume": 146789,
+        "AAPL_Adj Close": 1971.65
+    },
+    {
+        "t": 1684800000,
+        "AAPL_Open": 1971.82,
+        "AAPL_High": 1977.57,
+        "AAPL_Low": 1954.22,
+        "AAPL_Close": 1974.91,
+        "AAPL_Volume": 162895,
+        "AAPL_Adj Close": 1974.91
+    },
+    {
+        "t": 1684886400,
+        "AAPL_Open": 1975.1,
+        "AAPL_High": 1985.19,
+        "AAPL_Low": 1956.71,
+        "AAPL_Close": 1957.16,
+        "AAPL_Volume": 159338,
+        "AAPL_Adj Close": 1957.16
+    },
+    {
+        "t": 1684972800,
+        "AAPL_Open": 1957.39,
+        "AAPL_High": 1964.74,
+        "AAPL_Low": 1938.86,
+        "AAPL_Close": 1940.69,
+        "AAPL_Volume": 159054,
+        "AAPL_Adj Close": 1940.69
+    },
+    {
+        "t": 1685059200,
+        "AAPL_Open": 1940.39,
+        "AAPL_High": 1957.21,
+        "AAPL_Low": 1936.7,
+        "AAPL_Close": 1946.48,
+        "AAPL_Volume": 152707,
+        "AAPL_Adj Close": 1946.48
+    },
+    {
+        "t": 1685318400,
+        "AAPL_Open": 1941.7,
+        "AAPL_High": 1949.68,
+        "AAPL_Low": 1940.18,
+        "AAPL_Close": 1942.91,
+        "AAPL_Volume": 74832,
+        "AAPL_Adj Close": 1942.91
+    },
+    {
+        "t": 1685404800,
+        "AAPL_Open": 1943.42,
+        "AAPL_High": 1963.47,
+        "AAPL_Low": 1932.03,
+        "AAPL_Close": 1959.23,
+        "AAPL_Volume": 156598,
+        "AAPL_Adj Close": 1959.23
+    },
+    {
+        "t": 1685491200,
+        "AAPL_Open": 1959.21,
+        "AAPL_High": 1974.67,
+        "AAPL_Low": 1953.64,
+        "AAPL_Close": 1962.51,
+        "AAPL_Volume": 158968,
+        "AAPL_Adj Close": 1962.51
+    },
+    {
+        "t": 1685577600,
+        "AAPL_Open": 1962.72,
+        "AAPL_High": 1983.06,
+        "AAPL_Low": 1953.32,
+        "AAPL_Close": 1977.34,
+        "AAPL_Volume": 149131,
+        "AAPL_Adj Close": 1977.34
+    },
+    {
+        "t": 1685664000,
+        "AAPL_Open": 1977.19,
+        "AAPL_High": 1983.39,
+        "AAPL_Low": 1947.94,
+        "AAPL_Close": 1948.23,
+        "AAPL_Volume": 142375,
+        "AAPL_Adj Close": 1948.23
+    },
+    {
+        "t": 1685923200,
+        "AAPL_Open": 1947.58,
+        "AAPL_High": 1963.98,
+        "AAPL_Low": 1938.1,
+        "AAPL_Close": 1961.66,
+        "AAPL_Volume": 137234,
+        "AAPL_Adj Close": 1961.66
+    },
+    {
+        "t": 1686009600,
+        "AAPL_Open": 1961.44,
+        "AAPL_High": 1966.3,
+        "AAPL_Low": 1954.29,
+        "AAPL_Close": 1963.13,
+        "AAPL_Volume": 130650,
+        "AAPL_Adj Close": 1963.13
+    },
+    {
+        "t": 1686096000,
+        "AAPL_Open": 1963.38,
+        "AAPL_High": 1970.16,
+        "AAPL_Low": 1939.77,
+        "AAPL_Close": 1939.81,
+        "AAPL_Volume": 139036,
+        "AAPL_Adj Close": 1939.81
+    },
+    {
+        "t": 1686182400,
+        "AAPL_Open": 1940.31,
+        "AAPL_High": 1970.52,
+        "AAPL_Low": 1939.61,
+        "AAPL_Close": 1965.47,
+        "AAPL_Volume": 137310,
+        "AAPL_Adj Close": 1965.47
+    },
+    {
+        "t": 1686268800,
+        "AAPL_Open": 1965.73,
+        "AAPL_High": 1972.97,
+        "AAPL_Low": 1956.57,
+        "AAPL_Close": 1960.44,
+        "AAPL_Volume": 121509,
+        "AAPL_Adj Close": 1960.44
+    },
+    {
+        "t": 1686528000,
+        "AAPL_Open": 1959.79,
+        "AAPL_High": 1966.92,
+        "AAPL_Low": 1949.13,
+        "AAPL_Close": 1957.37,
+        "AAPL_Volume": 129776,
+        "AAPL_Adj Close": 1957.37
+    },
+    {
+        "t": 1686614400,
+        "AAPL_Open": 1957.28,
+        "AAPL_High": 1970.73,
+        "AAPL_Low": 1940,
+        "AAPL_Close": 1943.57,
+        "AAPL_Volume": 142744,
+        "AAPL_Adj Close": 1943.57
+    },
+    {
+        "t": 1686700800,
+        "AAPL_Open": 1943.18,
+        "AAPL_High": 1960.18,
+        "AAPL_Low": 1939.65,
+        "AAPL_Close": 1941.68,
+        "AAPL_Volume": 142350,
+        "AAPL_Adj Close": 1941.68
+    },
+    {
+        "t": 1686787200,
+        "AAPL_Open": 1941.53,
+        "AAPL_High": 1960.22,
+        "AAPL_Low": 1924.63,
+        "AAPL_Close": 1957.86,
+        "AAPL_Volume": 162153,
+        "AAPL_Adj Close": 1957.86
+    },
+    {
+        "t": 1686873600,
+        "AAPL_Open": 1957.38,
+        "AAPL_High": 1967.86,
+        "AAPL_Low": 1953.26,
+        "AAPL_Close": 1957.34,
+        "AAPL_Volume": 144240,
+        "AAPL_Adj Close": 1957.34
+    },
+    {
+        "t": 1687132800,
+        "AAPL_Open": 1957.48,
+        "AAPL_High": 1958.64,
+        "AAPL_Low": 1947.74,
+        "AAPL_Close": 1950.32,
+        "AAPL_Volume": 84799,
+        "AAPL_Adj Close": 1950.32
+    },
+    {
+        "t": 1687219200,
+        "AAPL_Open": 1950.6,
+        "AAPL_High": 1956.72,
+        "AAPL_Low": 1929.73,
+        "AAPL_Close": 1936.16,
+        "AAPL_Volume": 142118,
+        "AAPL_Adj Close": 1936.16
+    },
+    {
+        "t": 1687305600,
+        "AAPL_Open": 1935.87,
+        "AAPL_High": 1939.45,
+        "AAPL_Low": 1919.17,
+        "AAPL_Close": 1932.64,
+        "AAPL_Volume": 148044,
+        "AAPL_Adj Close": 1932.64
+    },
+    {
+        "t": 1687392000,
+        "AAPL_Open": 1932.13,
+        "AAPL_High": 1934.84,
+        "AAPL_Low": 1912.35,
+        "AAPL_Close": 1913.64,
+        "AAPL_Volume": 133242,
+        "AAPL_Adj Close": 1913.64
+    },
+    {
+        "t": 1687478400,
+        "AAPL_Open": 1913.77,
+        "AAPL_High": 1937.06,
+        "AAPL_Low": 1910.07,
+        "AAPL_Close": 1921.43,
+        "AAPL_Volume": 138130,
+        "AAPL_Adj Close": 1921.43
+    },
+    {
+        "t": 1687737600,
+        "AAPL_Open": 1924.71,
+        "AAPL_High": 1933.3,
+        "AAPL_Low": 1921.5,
+        "AAPL_Close": 1923,
+        "AAPL_Volume": 124620,
+        "AAPL_Adj Close": 1923
+    },
+    {
+        "t": 1687824000,
+        "AAPL_Open": 1923.27,
+        "AAPL_High": 1930.62,
+        "AAPL_Low": 1910.97,
+        "AAPL_Close": 1913.52,
+        "AAPL_Volume": 133448,
+        "AAPL_Adj Close": 1913.52
+    },
+    {
+        "t": 1687910400,
+        "AAPL_Open": 1914.05,
+        "AAPL_High": 1917.16,
+        "AAPL_Low": 1902.79,
+        "AAPL_Close": 1907.29,
+        "AAPL_Volume": 130701,
+        "AAPL_Adj Close": 1907.29
+    },
+    {
+        "t": 1687996800,
+        "AAPL_Open": 1907.62,
+        "AAPL_High": 1913.04,
+        "AAPL_Low": 1892.95,
+        "AAPL_Close": 1908.12,
+        "AAPL_Volume": 139343,
+        "AAPL_Adj Close": 1908.12
+    },
+    {
+        "t": 1688083200,
+        "AAPL_Open": 1908.33,
+        "AAPL_High": 1922.68,
+        "AAPL_Low": 1900.52,
+        "AAPL_Close": 1919.13,
+        "AAPL_Volume": 136061,
+        "AAPL_Adj Close": 1919.13
+    },
+    {
+        "t": 1688342400,
+        "AAPL_Open": 1918.72,
+        "AAPL_High": 1930.9,
+        "AAPL_Low": 1910.09,
+        "AAPL_Close": 1921.42,
+        "AAPL_Volume": 116578,
+        "AAPL_Adj Close": 1921.42
+    },
+    {
+        "t": 1688428800,
+        "AAPL_Open": 1921.23,
+        "AAPL_High": 1930.66,
+        "AAPL_Low": 1919.89,
+        "AAPL_Close": 1925.65,
+        "AAPL_Volume": 75120,
+        "AAPL_Adj Close": 1925.65
+    },
+    {
+        "t": 1688515200,
+        "AAPL_Open": 1925.31,
+        "AAPL_High": 1935.02,
+        "AAPL_Low": 1914.77,
+        "AAPL_Close": 1915.08,
+        "AAPL_Volume": 129079,
+        "AAPL_Adj Close": 1915.08
+    },
+    {
+        "t": 1688601600,
+        "AAPL_Open": 1915.28,
+        "AAPL_High": 1927.59,
+        "AAPL_Low": 1902.63,
+        "AAPL_Close": 1910.8,
+        "AAPL_Volume": 140657,
+        "AAPL_Adj Close": 1910.8
+    },
+    {
+        "t": 1688688000,
+        "AAPL_Open": 1910.68,
+        "AAPL_High": 1934.9,
+        "AAPL_Low": 1909.52,
+        "AAPL_Close": 1925.1,
+        "AAPL_Volume": 137139,
+        "AAPL_Adj Close": 1925.1
+    },
+    {
+        "t": 1688947200,
+        "AAPL_Open": 1924.53,
+        "AAPL_High": 1928.13,
+        "AAPL_Low": 1912.62,
+        "AAPL_Close": 1925.17,
+        "AAPL_Volume": 125247,
+        "AAPL_Adj Close": 1925.17
+    },
+    {
+        "t": 1689033600,
+        "AAPL_Open": 1925.23,
+        "AAPL_High": 1938.41,
+        "AAPL_Low": 1924.34,
+        "AAPL_Close": 1932.08,
+        "AAPL_Volume": 132218,
+        "AAPL_Adj Close": 1932.08
+    },
+    {
+        "t": 1689120000,
+        "AAPL_Open": 1932.27,
+        "AAPL_High": 1959.65,
+        "AAPL_Low": 1932.18,
+        "AAPL_Close": 1957.32,
+        "AAPL_Volume": 146261,
+        "AAPL_Adj Close": 1957.32
+    },
+    {
+        "t": 1689206400,
+        "AAPL_Open": 1957.1,
+        "AAPL_High": 1963.41,
+        "AAPL_Low": 1952.43,
+        "AAPL_Close": 1960.35,
+        "AAPL_Volume": 148375,
+        "AAPL_Adj Close": 1960.35
+    },
+    {
+        "t": 1689292800,
+        "AAPL_Open": 1960.28,
+        "AAPL_High": 1963.71,
+        "AAPL_Low": 1950.93,
+        "AAPL_Close": 1955.32,
+        "AAPL_Volume": 146716,
+        "AAPL_Adj Close": 1955.32
+    },
+    {
+        "t": 1689552000,
+        "AAPL_Open": 1954.68,
+        "AAPL_High": 1959.8,
+        "AAPL_Low": 1945.74,
+        "AAPL_Close": 1954.79,
+        "AAPL_Volume": 129494,
+        "AAPL_Adj Close": 1954.79
+    },
+    {
+        "t": 1689638400,
+        "AAPL_Open": 1954.52,
+        "AAPL_High": 1984.33,
+        "AAPL_Low": 1954.5,
+        "AAPL_Close": 1978.73,
+        "AAPL_Volume": 161867,
+        "AAPL_Adj Close": 1978.73
+    },
+    {
+        "t": 1689724800,
+        "AAPL_Open": 1978.75,
+        "AAPL_High": 1980.85,
+        "AAPL_Low": 1969.76,
+        "AAPL_Close": 1976.84,
+        "AAPL_Volume": 155579,
+        "AAPL_Adj Close": 1976.84
+    },
+    {
+        "t": 1689811200,
+        "AAPL_Open": 1975.8,
+        "AAPL_High": 1987.4,
+        "AAPL_Low": 1965.31,
+        "AAPL_Close": 1969.35,
+        "AAPL_Volume": 163295,
+        "AAPL_Adj Close": 1969.35
+    },
+    {
+        "t": 1689897600,
+        "AAPL_Open": 1970.19,
+        "AAPL_High": 1973.72,
+        "AAPL_Low": 1956.79,
+        "AAPL_Close": 1961.995,
+        "AAPL_Volume": 153009,
+        "AAPL_Adj Close": 1961.995
+    },
+    {
+        "t": 1690070400,
+        "AAPL_Open": 1962.41,
+        "AAPL_High": 1962.86,
+        "AAPL_Low": 1960.32,
+        "AAPL_Close": 1961.24,
+        "AAPL_Volume": 3726,
+        "AAPL_Adj Close": 1961.24
+    },
+    {
+        "t": 1690156800,
+        "AAPL_Open": 1961.23,
+        "AAPL_High": 1967.81,
+        "AAPL_Low": 1953.17,
+        "AAPL_Close": 1954.37,
+        "AAPL_Volume": 145216,
+        "AAPL_Adj Close": 1954.37
+    },
+    {
+        "t": 1690243200,
+        "AAPL_Open": 1954.36,
+        "AAPL_High": 1966.24,
+        "AAPL_Low": 1951.42,
+        "AAPL_Close": 1965.25,
+        "AAPL_Volume": 134425,
+        "AAPL_Adj Close": 1965.25
+    },
+    {
+        "t": 1690329600,
+        "AAPL_Open": 1965.26,
+        "AAPL_High": 1978.31,
+        "AAPL_Low": 1961.97,
+        "AAPL_Close": 1971.96,
+        "AAPL_Volume": 154149,
+        "AAPL_Adj Close": 1971.96
+    },
+    {
+        "t": 1690416000,
+        "AAPL_Open": 1972.02,
+        "AAPL_High": 1982.11,
+        "AAPL_Low": 1942.53,
+        "AAPL_Close": 1947.39,
+        "AAPL_Volume": 156879,
+        "AAPL_Adj Close": 1947.39
+    },
+    {
+        "t": 1690502400,
+        "AAPL_Open": 1947.38,
+        "AAPL_High": 1963.48,
+        "AAPL_Low": 1946.01,
+        "AAPL_Close": 1959.14,
+        "AAPL_Volume": 150639,
+        "AAPL_Adj Close": 1959.14
+    },
+    {
+        "t": 1690675200,
+        "AAPL_Open": 1958.87,
+        "AAPL_High": 1960.45,
+        "AAPL_Low": 1957.33,
+        "AAPL_Close": 1958.14,
+        "AAPL_Volume": 4662,
+        "AAPL_Adj Close": 1958.14
+    },
+    {
+        "t": 1690761600,
+        "AAPL_Open": 1958.01,
+        "AAPL_High": 1972.34,
+        "AAPL_Low": 1951.07,
+        "AAPL_Close": 1963.89,
+        "AAPL_Volume": 126760,
+        "AAPL_Adj Close": 1963.89
+    },
+    {
+        "t": 1690848000,
+        "AAPL_Open": 1963.88,
+        "AAPL_High": 1964.63,
+        "AAPL_Low": 1941.22,
+        "AAPL_Close": 1952.14,
+        "AAPL_Volume": 130847,
+        "AAPL_Adj Close": 1952.14
+    },
+    {
+        "t": 1690934400,
+        "AAPL_Open": 1952.12,
+        "AAPL_High": 1954.74,
+        "AAPL_Low": 1933.12,
+        "AAPL_Close": 1935.99,
+        "AAPL_Volume": 134356,
+        "AAPL_Adj Close": 1935.99
+    },
+    {
+        "t": 1691020800,
+        "AAPL_Open": 1936.03,
+        "AAPL_High": 1938.83,
+        "AAPL_Low": 1929.48,
+        "AAPL_Close": 1935.7,
+        "AAPL_Volume": 134150,
+        "AAPL_Adj Close": 1935.7
+    },
+    {
+        "t": 1691107200,
+        "AAPL_Open": 1935.7,
+        "AAPL_High": 1946.71,
+        "AAPL_Low": 1925.22,
+        "AAPL_Close": 1942.845,
+        "AAPL_Volume": 131167,
+        "AAPL_Adj Close": 1942.845
+    },
+    {
+        "t": 1691280000,
+        "AAPL_Open": 1942.21,
+        "AAPL_High": 1946.65,
+        "AAPL_Low": 1942.09,
+        "AAPL_Close": 1943.85,
+        "AAPL_Volume": 5165,
+        "AAPL_Adj Close": 1943.85
+    },
+    {
+        "t": 1691366400,
+        "AAPL_Open": 1943.88,
+        "AAPL_High": 1945.28,
+        "AAPL_Low": 1931.43,
+        "AAPL_Close": 1936.74,
+        "AAPL_Volume": 109751,
+        "AAPL_Adj Close": 1936.74
+    },
+    {
+        "t": 1691452800,
+        "AAPL_Open": 1936.79,
+        "AAPL_High": 1937.29,
+        "AAPL_Low": 1922.76,
+        "AAPL_Close": 1925.57,
+        "AAPL_Volume": 125156,
+        "AAPL_Adj Close": 1925.57
+    },
+    {
+        "t": 1691539200,
+        "AAPL_Open": 1925.61,
+        "AAPL_High": 1932.3,
+        "AAPL_Low": 1913.99,
+        "AAPL_Close": 1916.64,
+        "AAPL_Volume": 121256,
+        "AAPL_Adj Close": 1916.64
+    },
+    {
+        "t": 1691625600,
+        "AAPL_Open": 1916.74,
+        "AAPL_High": 1930.08,
+        "AAPL_Low": 1910.76,
+        "AAPL_Close": 1912.33,
+        "AAPL_Volume": 138022,
+        "AAPL_Adj Close": 1912.33
+    },
+    {
+        "t": 1691712000,
+        "AAPL_Open": 1912.33,
+        "AAPL_High": 1920.87,
+        "AAPL_Low": 1911.84,
+        "AAPL_Close": 1913.83,
+        "AAPL_Volume": 115461,
+        "AAPL_Adj Close": 1913.83
+    },
+    {
+        "t": 1691884800,
+        "AAPL_Open": 1913.67,
+        "AAPL_High": 1915.12,
+        "AAPL_Low": 1912.38,
+        "AAPL_Close": 1913.71,
+        "AAPL_Volume": 3347,
+        "AAPL_Adj Close": 1913.71
+    },
+    {
+        "t": 1691971200,
+        "AAPL_Open": 1913.59,
+        "AAPL_High": 1916.18,
+        "AAPL_Low": 1902.66,
+        "AAPL_Close": 1907.57,
+        "AAPL_Volume": 123833,
+        "AAPL_Adj Close": 1907.57
+    },
+    {
+        "t": 1692057600,
+        "AAPL_Open": 1907.54,
+        "AAPL_High": 1911.58,
+        "AAPL_Low": 1896.35,
+        "AAPL_Close": 1901.36,
+        "AAPL_Volume": 148018,
+        "AAPL_Adj Close": 1901.36
+    },
+    {
+        "t": 1692144000,
+        "AAPL_Open": 1901.4,
+        "AAPL_High": 1901.45,
+        "AAPL_Low": 1901.1,
+        "AAPL_Close": 1901.41,
+        "AAPL_Volume": 57,
+        "AAPL_Adj Close": 1901.41
+    },
+    {
+        "t": 1692230400,
+        "AAPL_Open": 1893.33,
+        "AAPL_High": 1903.4,
+        "AAPL_Low": 1885.05,
+        "AAPL_Close": 1891.22,
+        "AAPL_Volume": 122398,
+        "AAPL_Adj Close": 1891.22
+    },
+    {
+        "t": 1692316800,
+        "AAPL_Open": 1891.32,
+        "AAPL_High": 1896.84,
+        "AAPL_Low": 1886.74,
+        "AAPL_Close": 1889.74,
+        "AAPL_Volume": 119544,
+        "AAPL_Adj Close": 1889.74
+    },
+    {
+        "t": 1692403200,
+        "AAPL_Open": 1889.755,
+        "AAPL_High": 1889.755,
+        "AAPL_Low": 1889.755,
+        "AAPL_Close": 1889.755,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1889.755
+    },
+    {
+        "t": 1692489600,
+        "AAPL_Open": 1889.755,
+        "AAPL_High": 1890.905,
+        "AAPL_Low": 1888.925,
+        "AAPL_Close": 1890.005,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1890.005
+    },
+    {
+        "t": 1692576000,
+        "AAPL_Open": 1889.91,
+        "AAPL_High": 1898.805,
+        "AAPL_Low": 1884.86,
+        "AAPL_Close": 1894.815,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1894.815
+    },
+    {
+        "t": 1692662400,
+        "AAPL_Open": 1894.68,
+        "AAPL_High": 1904.39,
+        "AAPL_Low": 1889.14,
+        "AAPL_Close": 1898.51,
+        "AAPL_Volume": 120588,
+        "AAPL_Adj Close": 1898.51
+    },
+    {
+        "t": 1692748800,
+        "AAPL_Open": 1898.58,
+        "AAPL_High": 1920.35,
+        "AAPL_Low": 1898.41,
+        "AAPL_Close": 1917.84,
+        "AAPL_Volume": 133010,
+        "AAPL_Adj Close": 1917.84
+    },
+    {
+        "t": 1692835200,
+        "AAPL_Open": 1917.87,
+        "AAPL_High": 1923.31,
+        "AAPL_Low": 1911.8,
+        "AAPL_Close": 1915.84,
+        "AAPL_Volume": 122058,
+        "AAPL_Adj Close": 1915.84
+    },
+    {
+        "t": 1692921600,
+        "AAPL_Open": 1915.83,
+        "AAPL_High": 1922.33,
+        "AAPL_Low": 1903.77,
+        "AAPL_Close": 1914.035,
+        "AAPL_Volume": 122872,
+        "AAPL_Adj Close": 1914.035
+    },
+    {
+        "t": 1693008000,
+        "AAPL_Open": 1914.035,
+        "AAPL_High": 1914.035,
+        "AAPL_Low": 1914.035,
+        "AAPL_Close": 1914.035,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1914.035
+    },
+    {
+        "t": 1693094400,
+        "AAPL_Open": 1915.5,
+        "AAPL_High": 1916.06,
+        "AAPL_Low": 1914.29,
+        "AAPL_Close": 1915.14,
+        "AAPL_Volume": 3287,
+        "AAPL_Adj Close": 1915.14
+    },
+    {
+        "t": 1693180800,
+        "AAPL_Open": 1914.93,
+        "AAPL_High": 1915.03,
+        "AAPL_Low": 1914.61,
+        "AAPL_Close": 1915.135,
+        "AAPL_Volume": 110,
+        "AAPL_Adj Close": 1915.135
+    },
+    {
+        "t": 1693267200,
+        "AAPL_Open": 1921.19,
+        "AAPL_High": 1938.14,
+        "AAPL_Low": 1914.43,
+        "AAPL_Close": 1936.22,
+        "AAPL_Volume": 117948,
+        "AAPL_Adj Close": 1936.22
+    },
+    {
+        "t": 1693353600,
+        "AAPL_Open": 1936.22,
+        "AAPL_High": 1948.99,
+        "AAPL_Low": 1934.95,
+        "AAPL_Close": 1944.19,
+        "AAPL_Volume": 123490,
+        "AAPL_Adj Close": 1944.19
+    },
+    {
+        "t": 1693440000,
+        "AAPL_Open": 1944.29,
+        "AAPL_High": 1947.86,
+        "AAPL_Low": 1939,
+        "AAPL_Close": 1939.82,
+        "AAPL_Volume": 115923,
+        "AAPL_Adj Close": 1939.82
+    },
+    {
+        "t": 1693526400,
+        "AAPL_Open": 1939.86,
+        "AAPL_High": 1940.23,
+        "AAPL_Low": 1939.86,
+        "AAPL_Close": 1940.05,
+        "AAPL_Volume": 59,
+        "AAPL_Adj Close": 1940.05
+    },
+    {
+        "t": 1693612800,
+        "AAPL_Open": 1940.02,
+        "AAPL_High": 1940.02,
+        "AAPL_Low": 1940.02,
+        "AAPL_Close": 1940.02,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1940.02
+    },
+    {
+        "t": 1693699200,
+        "AAPL_Open": 1940.39,
+        "AAPL_High": 1941.03,
+        "AAPL_Low": 1939.38,
+        "AAPL_Close": 1940.57,
+        "AAPL_Volume": 2191,
+        "AAPL_Adj Close": 1940.57
+    },
+    {
+        "t": 1693785600,
+        "AAPL_Open": 1940.55,
+        "AAPL_High": 1946.26,
+        "AAPL_Low": 1936.77,
+        "AAPL_Close": 1937.57,
+        "AAPL_Volume": 70495,
+        "AAPL_Adj Close": 1937.57
+    },
+    {
+        "t": 1693872000,
+        "AAPL_Open": 1937.55,
+        "AAPL_High": 1938.93,
+        "AAPL_Low": 1925.33,
+        "AAPL_Close": 1926.55,
+        "AAPL_Volume": 123196,
+        "AAPL_Adj Close": 1926.55
+    },
+    {
+        "t": 1693958400,
+        "AAPL_Open": 1926.57,
+        "AAPL_High": 1926.65,
+        "AAPL_Low": 1926.49,
+        "AAPL_Close": 1926.49,
+        "AAPL_Volume": 35,
+        "AAPL_Adj Close": 1926.49
+    },
+    {
+        "t": 1694044800,
+        "AAPL_Open": 1917.17,
+        "AAPL_High": 1923.235,
+        "AAPL_Low": 1916.345,
+        "AAPL_Close": 1918.465,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1918.465
+    },
+    {
+        "t": 1694131200,
+        "AAPL_Open": 1920.24,
+        "AAPL_High": 1929.67,
+        "AAPL_Low": 1917.32,
+        "AAPL_Close": 1918.98,
+        "AAPL_Volume": 103773,
+        "AAPL_Adj Close": 1918.98
+    },
+    {
+        "t": 1694304000,
+        "AAPL_Open": 1920.48,
+        "AAPL_High": 1920.55,
+        "AAPL_Low": 1916.68,
+        "AAPL_Close": 1918.8,
+        "AAPL_Volume": 4258,
+        "AAPL_Adj Close": 1918.8
+    },
+    {
+        "t": 1694390400,
+        "AAPL_Open": 1918.81,
+        "AAPL_High": 1930.68,
+        "AAPL_Low": 1918.3,
+        "AAPL_Close": 1921.63,
+        "AAPL_Volume": 116010,
+        "AAPL_Adj Close": 1921.63
+    },
+    {
+        "t": 1694476800,
+        "AAPL_Open": 1921.6,
+        "AAPL_High": 1924.47,
+        "AAPL_Low": 1907.56,
+        "AAPL_Close": 1912.86,
+        "AAPL_Volume": 105826,
+        "AAPL_Adj Close": 1912.86
+    },
+    {
+        "t": 1694563200,
+        "AAPL_Open": 1912.84,
+        "AAPL_High": 1915.7,
+        "AAPL_Low": 1905.55,
+        "AAPL_Close": 1909.17,
+        "AAPL_Volume": 118143,
+        "AAPL_Adj Close": 1909.17
+    },
+    {
+        "t": 1694649600,
+        "AAPL_Open": 1909.06,
+        "AAPL_High": 1912.86,
+        "AAPL_Low": 1900.94,
+        "AAPL_Close": 1909.74,
+        "AAPL_Volume": 135746,
+        "AAPL_Adj Close": 1909.74
+    },
+    {
+        "t": 1694736000,
+        "AAPL_Open": 1909.73,
+        "AAPL_High": 1930.35,
+        "AAPL_Low": 1909.73,
+        "AAPL_Close": 1923.655,
+        "AAPL_Volume": 131016,
+        "AAPL_Adj Close": 1923.655
+    },
+    {
+        "t": 1694822400,
+        "AAPL_Open": 1923.655,
+        "AAPL_High": 1923.655,
+        "AAPL_Low": 1923.655,
+        "AAPL_Close": 1923.655,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1923.655
+    },
+    {
+        "t": 1694908800,
+        "AAPL_Open": 1923.57,
+        "AAPL_High": 1924.46,
+        "AAPL_Low": 1922.51,
+        "AAPL_Close": 1923.305,
+        "AAPL_Volume": 2415,
+        "AAPL_Adj Close": 1923.305
+    },
+    {
+        "t": 1694995200,
+        "AAPL_Open": 1923.2,
+        "AAPL_High": 1934.54,
+        "AAPL_Low": 1922.77,
+        "AAPL_Close": 1934.08,
+        "AAPL_Volume": 107320,
+        "AAPL_Adj Close": 1934.08
+    },
+    {
+        "t": 1695081600,
+        "AAPL_Open": 1934.09,
+        "AAPL_High": 1937.33,
+        "AAPL_Low": 1929.77,
+        "AAPL_Close": 1931.38,
+        "AAPL_Volume": 94760,
+        "AAPL_Adj Close": 1931.38
+    },
+    {
+        "t": 1695168000,
+        "AAPL_Open": 1931.37,
+        "AAPL_High": 1947.41,
+        "AAPL_Low": 1927.91,
+        "AAPL_Close": 1929.42,
+        "AAPL_Volume": 121174,
+        "AAPL_Adj Close": 1929.42
+    },
+    {
+        "t": 1695254400,
+        "AAPL_Open": 1929.43,
+        "AAPL_High": 1930.44,
+        "AAPL_Low": 1913.91,
+        "AAPL_Close": 1921.33,
+        "AAPL_Volume": 127258,
+        "AAPL_Adj Close": 1921.33
+    },
+    {
+        "t": 1695340800,
+        "AAPL_Open": 1921.33,
+        "AAPL_High": 1929.05,
+        "AAPL_Low": 1921.17,
+        "AAPL_Close": 1925.09,
+        "AAPL_Volume": 106327,
+        "AAPL_Adj Close": 1925.09
+    },
+    {
+        "t": 1695427200,
+        "AAPL_Open": 1925.23,
+        "AAPL_High": 1925.23,
+        "AAPL_Low": 1925.23,
+        "AAPL_Close": 1925.23,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1925.23
+    },
+    {
+        "t": 1695513600,
+        "AAPL_Open": 1925.23,
+        "AAPL_High": 1926.58,
+        "AAPL_Low": 1924.51,
+        "AAPL_Close": 1924.85,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1924.85
+    },
+    {
+        "t": 1695600000,
+        "AAPL_Open": 1924.71,
+        "AAPL_High": 1927.16,
+        "AAPL_Low": 1915.13,
+        "AAPL_Close": 1916.21,
+        "AAPL_Volume": 97784,
+        "AAPL_Adj Close": 1916.21
+    },
+    {
+        "t": 1695686400,
+        "AAPL_Open": 1916.21,
+        "AAPL_High": 1916.44,
+        "AAPL_Low": 1899.11,
+        "AAPL_Close": 1901.52,
+        "AAPL_Volume": 107248,
+        "AAPL_Adj Close": 1901.52
+    },
+    {
+        "t": 1695772800,
+        "AAPL_Open": 1901.52,
+        "AAPL_High": 1903.91,
+        "AAPL_Low": 1872.5,
+        "AAPL_Close": 1877.63,
+        "AAPL_Volume": 123287,
+        "AAPL_Adj Close": 1877.63
+    },
+    {
+        "t": 1695859200,
+        "AAPL_Open": 1877.63,
+        "AAPL_High": 1879.54,
+        "AAPL_Low": 1857.64,
+        "AAPL_Close": 1866.67,
+        "AAPL_Volume": 138579,
+        "AAPL_Adj Close": 1866.67
+    },
+    {
+        "t": 1695945600,
+        "AAPL_Open": 1866.66,
+        "AAPL_High": 1866.74,
+        "AAPL_Low": 1866.56,
+        "AAPL_Close": 1866.64,
+        "AAPL_Volume": 40,
+        "AAPL_Adj Close": 1866.64
+    },
+    {
+        "t": 1696032000,
+        "AAPL_Open": 1849.2,
+        "AAPL_High": 1849.2,
+        "AAPL_Low": 1849.2,
+        "AAPL_Close": 1849.2,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1849.2
+    },
+    {
+        "t": 1696118400,
+        "AAPL_Open": 1847.04,
+        "AAPL_High": 1848.67,
+        "AAPL_Low": 1845.67,
+        "AAPL_Close": 1848.44,
+        "AAPL_Volume": 4793,
+        "AAPL_Adj Close": 1848.44
+    },
+    {
+        "t": 1696204800,
+        "AAPL_Open": 1848.33,
+        "AAPL_High": 1848.89,
+        "AAPL_Low": 1820.36,
+        "AAPL_Close": 1824.91,
+        "AAPL_Volume": 142000,
+        "AAPL_Adj Close": 1824.91
+    },
+    {
+        "t": 1696291200,
+        "AAPL_Open": 1824.84,
+        "AAPL_High": 1824.96,
+        "AAPL_Low": 1824.13,
+        "AAPL_Close": 1824.23,
+        "AAPL_Volume": 125,
+        "AAPL_Adj Close": 1824.23
+    },
+    {
+        "t": 1696377600,
+        "AAPL_Open": 1823.42,
+        "AAPL_High": 1830.48,
+        "AAPL_Low": 1816.61,
+        "AAPL_Close": 1821.04,
+        "AAPL_Volume": 159056,
+        "AAPL_Adj Close": 1821.04
+    },
+    {
+        "t": 1696464000,
+        "AAPL_Open": 1821.43,
+        "AAPL_High": 1829.15,
+        "AAPL_Low": 1813.04,
+        "AAPL_Close": 1820.11,
+        "AAPL_Volume": 137960,
+        "AAPL_Adj Close": 1820.11
+    },
+    {
+        "t": 1696550400,
+        "AAPL_Open": 1820.57,
+        "AAPL_High": 1834.84,
+        "AAPL_Low": 1810.4,
+        "AAPL_Close": 1831.58,
+        "AAPL_Volume": 142087,
+        "AAPL_Adj Close": 1831.58
+    },
+    {
+        "t": 1696636800,
+        "AAPL_Open": 1831.695,
+        "AAPL_High": 1831.695,
+        "AAPL_Low": 1831.695,
+        "AAPL_Close": 1831.695,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1831.695
+    },
+    {
+        "t": 1696723200,
+        "AAPL_Open": 1849.91,
+        "AAPL_High": 1855.31,
+        "AAPL_Low": 1845.48,
+        "AAPL_Close": 1847.92,
+        "AAPL_Volume": 11159,
+        "AAPL_Adj Close": 1847.92
+    },
+    {
+        "t": 1696809600,
+        "AAPL_Open": 1849.91,
+        "AAPL_High": 1863.47,
+        "AAPL_Low": 1844.18,
+        "AAPL_Close": 1861.32,
+        "AAPL_Volume": 136018,
+        "AAPL_Adj Close": 1861.32
+    },
+    {
+        "t": 1696896000,
+        "AAPL_Open": 1861.32,
+        "AAPL_High": 1865.42,
+        "AAPL_Low": 1852.96,
+        "AAPL_Close": 1860.39,
+        "AAPL_Volume": 149636,
+        "AAPL_Adj Close": 1860.39
+    },
+    {
+        "t": 1696982400,
+        "AAPL_Open": 1859.76,
+        "AAPL_High": 1877.26,
+        "AAPL_Low": 1858.67,
+        "AAPL_Close": 1871.275,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1871.275
+    },
+    {
+        "t": 1697068800,
+        "AAPL_Open": 1875.39,
+        "AAPL_High": 1884.95,
+        "AAPL_Low": 1867.88,
+        "AAPL_Close": 1870.55,
+        "AAPL_Volume": 136218,
+        "AAPL_Adj Close": 1870.55
+    },
+    {
+        "t": 1697155200,
+        "AAPL_Open": 1870.55,
+        "AAPL_High": 1930.75,
+        "AAPL_Low": 1870.1,
+        "AAPL_Close": 1930.1,
+        "AAPL_Volume": 156813,
+        "AAPL_Adj Close": 1930.1
+    },
+    {
+        "t": 1697241600,
+        "AAPL_Open": 1930.1,
+        "AAPL_High": 1930.1,
+        "AAPL_Low": 1930.1,
+        "AAPL_Close": 1930.1,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1930.1
+    },
+    {
+        "t": 1697328000,
+        "AAPL_Open": 1923.46,
+        "AAPL_High": 1927.61,
+        "AAPL_Low": 1921.15,
+        "AAPL_Close": 1925.935,
+        "AAPL_Volume": 8670,
+        "AAPL_Adj Close": 1925.935
+    },
+    {
+        "t": 1697414400,
+        "AAPL_Open": 1925.84,
+        "AAPL_High": 1925.95,
+        "AAPL_Low": 1908.14,
+        "AAPL_Close": 1919.39,
+        "AAPL_Volume": 142379,
+        "AAPL_Adj Close": 1919.39
+    },
+    {
+        "t": 1697500800,
+        "AAPL_Open": 1919.96,
+        "AAPL_High": 1931.54,
+        "AAPL_Low": 1912.37,
+        "AAPL_Close": 1923.04,
+        "AAPL_Volume": 144678,
+        "AAPL_Adj Close": 1923.04
+    },
+    {
+        "t": 1697587200,
+        "AAPL_Open": 1923.93,
+        "AAPL_High": 1962.58,
+        "AAPL_Low": 1923.27,
+        "AAPL_Close": 1947.55,
+        "AAPL_Volume": 164273,
+        "AAPL_Adj Close": 1947.55
+    },
+    {
+        "t": 1697673600,
+        "AAPL_Open": 1947.77,
+        "AAPL_High": 1977.68,
+        "AAPL_Low": 1945.19,
+        "AAPL_Close": 1974.31,
+        "AAPL_Volume": 177534,
+        "AAPL_Adj Close": 1974.31
+    },
+    {
+        "t": 1697760000,
+        "AAPL_Open": 1973.56,
+        "AAPL_High": 1997.17,
+        "AAPL_Low": 1971.96,
+        "AAPL_Close": 1980.31,
+        "AAPL_Volume": 170829,
+        "AAPL_Adj Close": 1980.31
+    },
+    {
+        "t": 1697846400,
+        "AAPL_Open": 1980.48,
+        "AAPL_High": 1980.48,
+        "AAPL_Low": 1980.48,
+        "AAPL_Close": 1980.48,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1980.48
+    },
+    {
+        "t": 1697932800,
+        "AAPL_Open": 1969.04,
+        "AAPL_High": 1978.52,
+        "AAPL_Low": 1968.88,
+        "AAPL_Close": 1971.665,
+        "AAPL_Volume": 7231,
+        "AAPL_Adj Close": 1971.665
+    },
+    {
+        "t": 1698019200,
+        "AAPL_Open": 1969.04,
+        "AAPL_High": 1982.77,
+        "AAPL_Low": 1964.32,
+        "AAPL_Close": 1972.71,
+        "AAPL_Volume": 159295,
+        "AAPL_Adj Close": 1972.71
+    },
+    {
+        "t": 1698105600,
+        "AAPL_Open": 1973.44,
+        "AAPL_High": 1980.82,
+        "AAPL_Low": 1953.64,
+        "AAPL_Close": 1970.99,
+        "AAPL_Volume": 155698,
+        "AAPL_Adj Close": 1970.99
+    },
+    {
+        "t": 1698192000,
+        "AAPL_Open": 1970.92,
+        "AAPL_High": 1987.22,
+        "AAPL_Low": 1963.06,
+        "AAPL_Close": 1979.5,
+        "AAPL_Volume": 147950,
+        "AAPL_Adj Close": 1979.5
+    },
+    {
+        "t": 1698278400,
+        "AAPL_Open": 1980.44,
+        "AAPL_High": 1993.43,
+        "AAPL_Low": 1971.73,
+        "AAPL_Close": 1984.88,
+        "AAPL_Volume": 167549,
+        "AAPL_Adj Close": 1984.88
+    },
+    {
+        "t": 1698364800,
+        "AAPL_Open": 1984.55,
+        "AAPL_High": 2009.38,
+        "AAPL_Low": 1976.82,
+        "AAPL_Close": 2005.7,
+        "AAPL_Volume": 163030,
+        "AAPL_Adj Close": 2005.7
+    },
+    {
+        "t": 1698451200,
+        "AAPL_Open": 2005.88,
+        "AAPL_High": 2005.88,
+        "AAPL_Low": 2005.88,
+        "AAPL_Close": 2005.88,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 2005.88
+    },
+    {
+        "t": 1698537600,
+        "AAPL_Open": 2005.88,
+        "AAPL_High": 2005.88,
+        "AAPL_Low": 1997.1,
+        "AAPL_Close": 2002.88,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 2002.88
+    },
+    {
+        "t": 1698624000,
+        "AAPL_Open": 2004.68,
+        "AAPL_High": 2006.68,
+        "AAPL_Low": 1990.92,
+        "AAPL_Close": 1996.13,
+        "AAPL_Volume": 148506,
+        "AAPL_Adj Close": 1996.13
+    },
+    {
+        "t": 1698710400,
+        "AAPL_Open": 1995.6,
+        "AAPL_High": 2007.92,
+        "AAPL_Low": 1978.78,
+        "AAPL_Close": 1983.95,
+        "AAPL_Volume": 151028,
+        "AAPL_Adj Close": 1983.95
+    },
+    {
+        "t": 1698796800,
+        "AAPL_Open": 1983.6,
+        "AAPL_High": 1992.01,
+        "AAPL_Low": 1969.85,
+        "AAPL_Close": 1982.69,
+        "AAPL_Volume": 159372,
+        "AAPL_Adj Close": 1982.69
+    },
+    {
+        "t": 1698883200,
+        "AAPL_Open": 1983.46,
+        "AAPL_High": 1991.02,
+        "AAPL_Low": 1978.8,
+        "AAPL_Close": 1985.83,
+        "AAPL_Volume": 139473,
+        "AAPL_Adj Close": 1985.83
+    },
+    {
+        "t": 1698969600,
+        "AAPL_Open": 1986.12,
+        "AAPL_High": 2004.09,
+        "AAPL_Low": 1983.21,
+        "AAPL_Close": 1992.43,
+        "AAPL_Volume": 136574,
+        "AAPL_Adj Close": 1992.43
+    },
+    {
+        "t": 1699056000,
+        "AAPL_Open": 1992.55,
+        "AAPL_High": 1992.55,
+        "AAPL_Low": 1992.55,
+        "AAPL_Close": 1992.55,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1992.55
+    },
+    {
+        "t": 1699142400,
+        "AAPL_Open": 1992.24,
+        "AAPL_High": 1992.85,
+        "AAPL_Low": 1987.11,
+        "AAPL_Close": 1988.46,
+        "AAPL_Volume": 3118,
+        "AAPL_Adj Close": 1988.46
+    },
+    {
+        "t": 1699228800,
+        "AAPL_Open": 1992.24,
+        "AAPL_High": 1993.07,
+        "AAPL_Low": 1977.65,
+        "AAPL_Close": 1977.71,
+        "AAPL_Volume": 128174,
+        "AAPL_Adj Close": 1977.71
+    },
+    {
+        "t": 1699315200,
+        "AAPL_Open": 1977.99,
+        "AAPL_High": 1978.27,
+        "AAPL_Low": 1956.69,
+        "AAPL_Close": 1968.86,
+        "AAPL_Volume": 140692,
+        "AAPL_Adj Close": 1968.86
+    },
+    {
+        "t": 1699401600,
+        "AAPL_Open": 1968.85,
+        "AAPL_High": 1970.99,
+        "AAPL_Low": 1947.41,
+        "AAPL_Close": 1949.73,
+        "AAPL_Volume": 136213,
+        "AAPL_Adj Close": 1949.73
+    },
+    {
+        "t": 1699488000,
+        "AAPL_Open": 1951.19,
+        "AAPL_High": 1965.70002,
+        "AAPL_Low": 1944.72498,
+        "AAPL_Close": 1958.26002,
+        "AAPL_Volume": 129472.68000000001,
+        "AAPL_Adj Close": 1958.26002
+    },
+    {
+        "t": 1699574400,
+        "AAPL_Open": 1958.325,
+        "AAPL_High": 1960.83502,
+        "AAPL_Low": 1933.02998,
+        "AAPL_Close": 1938.38502,
+        "AAPL_Volume": 114871.38,
+        "AAPL_Adj Close": 1938.38502
+    },
+    {
+        "t": 1699660800,
+        "AAPL_Open": 1935.5,
+        "AAPL_High": 1935.5,
+        "AAPL_Low": 1935.5,
+        "AAPL_Close": 1935.5,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1935.5
+    },
+    {
+        "t": 1699747200,
+        "AAPL_Open": 1938.76,
+        "AAPL_High": 1941.14,
+        "AAPL_Low": 1936.11,
+        "AAPL_Close": 1940.33,
+        "AAPL_Volume": 2220,
+        "AAPL_Adj Close": 1940.33
+    },
+    {
+        "t": 1699833600,
+        "AAPL_Open": 1941.045,
+        "AAPL_High": 1949.21002,
+        "AAPL_Low": 1931.68498,
+        "AAPL_Close": 1946.15502,
+        "AAPL_Volume": 105831.12,
+        "AAPL_Adj Close": 1946.15502
+    },
+    {
+        "t": 1699920000,
+        "AAPL_Open": 1946.455,
+        "AAPL_High": 1971.05002,
+        "AAPL_Low": 1941.5349800000001,
+        "AAPL_Close": 1963.17502,
+        "AAPL_Volume": 122463.24,
+        "AAPL_Adj Close": 1963.17502
+    },
+    {
+        "t": 1700006400,
+        "AAPL_Open": 1963.015,
+        "AAPL_High": 1975.42502,
+        "AAPL_Low": 1955.48998,
+        "AAPL_Close": 1959.54502,
+        "AAPL_Volume": 128694.42,
+        "AAPL_Adj Close": 1959.54502
+    },
+    {
+        "t": 1700092800,
+        "AAPL_Open": 1960.355,
+        "AAPL_High": 1988.00002,
+        "AAPL_Low": 1956.5449800000001,
+        "AAPL_Close": 1981.39002,
+        "AAPL_Volume": 125910.84,
+        "AAPL_Adj Close": 1981.39002
+    },
+    {
+        "t": 1700179200,
+        "AAPL_Open": 1981.03,
+        "AAPL_High": 1993.49002,
+        "AAPL_Low": 1978.63498,
+        "AAPL_Close": 1980.73002,
+        "AAPL_Volume": 114117.6,
+        "AAPL_Adj Close": 1980.73002
+    },
+    {
+        "t": 1700265600,
+        "AAPL_Open": 1980.685,
+        "AAPL_High": 1980.685,
+        "AAPL_Low": 1980.685,
+        "AAPL_Close": 1980.685,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 1980.685
+    },
+    {
+        "t": 1700438400,
+        "AAPL_Open": 1977.39,
+        "AAPL_High": 1985.25002,
+        "AAPL_Low": 1965.49498,
+        "AAPL_Close": 1977.84502,
+        "AAPL_Volume": 139326.9,
+        "AAPL_Adj Close": 1977.84502
+    },
+    {
+        "t": 1700524800,
+        "AAPL_Open": 1977.995,
+        "AAPL_High": 2007.65002,
+        "AAPL_Low": 1977.92498,
+        "AAPL_Close": 1998.52502,
+        "AAPL_Volume": 155094.06,
+        "AAPL_Adj Close": 1998.52502
+    },
+    {
+        "t": 1700611200,
+        "AAPL_Open": 1998.81,
+        "AAPL_High": 2006.4550199999999,
+        "AAPL_Low": 1986.96498,
+        "AAPL_Close": 1989.88502,
+        "AAPL_Volume": 133096.74,
+        "AAPL_Adj Close": 1989.88502
+    },
+    {
+        "t": 1700697600,
+        "AAPL_Open": 1989.995,
+        "AAPL_High": 1998.5700199999999,
+        "AAPL_Low": 1989.82498,
+        "AAPL_Close": 1992.89002,
+        "AAPL_Volume": 65302.44,
+        "AAPL_Adj Close": 1992.89002
+    },
+    {
+        "t": 1700784000,
+        "AAPL_Open": 1993.23,
+        "AAPL_High": 2003.66002,
+        "AAPL_Low": 1991.48998,
+        "AAPL_Close": 2002.4950199999998,
+        "AAPL_Volume": 94709.04000000001,
+        "AAPL_Adj Close": 2002.4950199999998
+    },
+    {
+        "t": 1700870400,
+        "AAPL_Open": 2002.5,
+        "AAPL_High": 2002.5,
+        "AAPL_Low": 2002.5,
+        "AAPL_Close": 2002.5,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 2002.5
+    },
+    {
+        "t": 1701043200,
+        "AAPL_Open": 2001.38,
+        "AAPL_High": 2018.32502,
+        "AAPL_Low": 2000.6699800000001,
+        "AAPL_Close": 2014.17502,
+        "AAPL_Volume": 133884.18,
+        "AAPL_Adj Close": 2014.17502
+    },
+    {
+        "t": 1701129600,
+        "AAPL_Open": 2014.115,
+        "AAPL_High": 2043.1100199999998,
+        "AAPL_Low": 2011.68498,
+        "AAPL_Close": 2040.97002,
+        "AAPL_Volume": 111368.7,
+        "AAPL_Adj Close": 2040.97002
+    },
+    {
+        "t": 1701216000,
+        "AAPL_Open": 2041.725,
+        "AAPL_High": 2052.06002,
+        "AAPL_Low": 2035.31998,
+        "AAPL_Close": 2044.3200199999999,
+        "AAPL_Volume": 183355.2,
+        "AAPL_Adj Close": 2044.3200199999999
+    },
+    {
+        "t": 1701302400,
+        "AAPL_Open": 2044.71,
+        "AAPL_High": 2047.2350199999998,
+        "AAPL_Low": 2031.52998,
+        "AAPL_Close": 2036.16502,
+        "AAPL_Volume": 154347.42,
+        "AAPL_Adj Close": 2036.16502
+    },
+    {
+        "t": 1701388800,
+        "AAPL_Open": 2037.36,
+        "AAPL_High": 2075.43002,
+        "AAPL_Low": 2033.93998,
+        "AAPL_Close": 2071.88002,
+        "AAPL_Volume": 175436.94,
+        "AAPL_Adj Close": 2071.88002
+    },
+    {
+        "t": 1701475200,
+        "AAPL_Open": 2070.435,
+        "AAPL_High": 2070.435,
+        "AAPL_Low": 2070.435,
+        "AAPL_Close": 2070.435,
+        "AAPL_Volume": 0.0,
+        "AAPL_Adj Close": 2070.435
+    },
+    {
+        "t": 1701561600,
+        "AAPL_Open": 2071.84,
+        "AAPL_High": 2143.31,
+        "AAPL_Low": 2071.74,
+        "AAPL_Close": 2117.58,
+        "AAPL_Volume": 7086,
+        "AAPL_Adj Close": 2117.58
+    },
+    {
+        "t": 1701648000,
+        "AAPL_Open": 2073.55,
+        "AAPL_High": 2148.9900199999997,
+        "AAPL_Low": 2020.13498,
+        "AAPL_Close": 2029.00002,
+        "AAPL_Volume": 248824.92,
+        "AAPL_Adj Close": 2029.00002
+    },
+    {
+        "t": 1701734400,
+        "AAPL_Open": 2029.885,
+        "AAPL_High": 2041.30002,
+        "AAPL_Low": 2009.93598,
+        "AAPL_Close": 2019.34502,
+        "AAPL_Volume": 186846.66,
+        "AAPL_Adj Close": 2019.34502
+    },
+    {
+        "t": 1701820800,
+        "AAPL_Open": 2019.685,
+        "AAPL_High": 2035.97002,
+        "AAPL_Low": 2017.28998,
+        "AAPL_Close": 2025.4750199999999,
+        "AAPL_Volume": 155548.98,
+        "AAPL_Adj Close": 2025.4750199999999
+    },
+    {
+        "t": 1701907200,
+        "AAPL_Open": 2025.845,
+        "AAPL_High": 2039.9750199999999,
+        "AAPL_Low": 2020.23498,
+        "AAPL_Close": 2028.51502,
+        "AAPL_Volume": 173040.96,
+        "AAPL_Adj Close": 2028.51502
+    },
+    {
+        "t": 1701993600,
+        "AAPL_Open": 2028.41,
+        "AAPL_High": 2034.06502,
+        "AAPL_Low": 1994.73998,
+        "AAPL_Close": 2004.44002,
+        "AAPL_Volume": 204141.78,
+        "AAPL_Adj Close": 2004.44002
+    },
+    {
+        "t": 1702166400,
+        "AAPL_Open": 2003.19,
+        "AAPL_High": 2007.6,
+        "AAPL_Low": 2003.1,
+        "AAPL_Close": 2007.18,
+        "AAPL_Volume": 4235,
+        "AAPL_Adj Close": 2007.18
+    },
+    {
+        "t": 1702252800,
+        "AAPL_Open": 2004.89,
+        "AAPL_High": 2007.8500199999999,
+        "AAPL_Low": 1975.89498,
+        "AAPL_Close": 1981.8400199999999,
+        "AAPL_Volume": 156200.76,
+        "AAPL_Adj Close": 1981.8400199999999
+    },
+    {
+        "t": 1702339200,
+        "AAPL_Open": 1982.235,
+        "AAPL_High": 1996.76002,
+        "AAPL_Low": 1977.27998,
+        "AAPL_Close": 1979.43502,
+        "AAPL_Volume": 142486.86000000002,
+        "AAPL_Adj Close": 1979.43502
+    },
+    {
+        "t": 1702425600,
+        "AAPL_Open": 1980.295,
+        "AAPL_High": 2027.88002,
+        "AAPL_Low": 1973.08998,
+        "AAPL_Close": 2027.57502,
+        "AAPL_Volume": 154613.64,
+        "AAPL_Adj Close": 2027.57502
+    },
+    {
+        "t": 1702512000,
+        "AAPL_Open": 2024.95,
+        "AAPL_High": 2047.93502,
+        "AAPL_Low": 2024.27998,
+        "AAPL_Close": 2036.26502,
+        "AAPL_Volume": 233300.52,
+        "AAPL_Adj Close": 2036.26502
+    },
+    {
+        "t": 1702598400,
+        "AAPL_Open": 2036.295,
+        "AAPL_High": 2044.9450199999999,
+        "AAPL_Low": 2015.6499800000001,
+        "AAPL_Close": 2019.54002,
+        "AAPL_Volume": 173911.02,
+        "AAPL_Adj Close": 2019.54002
+    },
+    {
+        "t": 1702771200,
+        "AAPL_Open": 2019.37,
+        "AAPL_High": 2020.79,
+        "AAPL_Low": 2016.02,
+        "AAPL_Close": 2017.57,
+        "AAPL_Volume": 3293,
+        "AAPL_Adj Close": 2017.57
+    },
+    {
+        "t": 1702857600,
+        "AAPL_Open": 2020.585,
+        "AAPL_High": 2033.75002,
+        "AAPL_Low": 2016.06498,
+        "AAPL_Close": 2027.24002,
+        "AAPL_Volume": 123047.7,
+        "AAPL_Adj Close": 2027.24002
+    },
+    {
+        "t": 1702944000,
+        "AAPL_Open": 2027.84,
+        "AAPL_High": 2047.03002,
+        "AAPL_Low": 2021.74998,
+        "AAPL_Close": 2040.2450199999998,
+        "AAPL_Volume": 127610.16,
+        "AAPL_Adj Close": 2040.2450199999998
+    },
+    {
+        "t": 1703030400,
+        "AAPL_Open": 2040.245,
+        "AAPL_High": 2043.53502,
+        "AAPL_Low": 2027.48498,
+        "AAPL_Close": 2031.78002,
+        "AAPL_Volume": 135769.14,
+        "AAPL_Adj Close": 2031.78002
+    },
+    {
+        "t": 1703116800,
+        "AAPL_Open": 2032.4,
+        "AAPL_High": 2046.10502,
+        "AAPL_Low": 2031.61998,
+        "AAPL_Close": 2045.92002,
+        "AAPL_Volume": 153708.9,
+        "AAPL_Adj Close": 2045.92002
+    },
+    {
+        "t": 1703203200,
+        "AAPL_Open": 2047.355,
+        "AAPL_High": 2070.70502,
+        "AAPL_Low": 2046.85498,
+        "AAPL_Close": 2053.2000199999998,
+        "AAPL_Volume": 185029.02,
+        "AAPL_Adj Close": 2053.2000199999998
+    },
+    {
+        "t": 1703462400,
+        "AAPL_Open": 2052.96,
+        "AAPL_High": 2057.92,
+        "AAPL_Low": 2052.44,
+        "AAPL_Close": 2055.03,
+        "AAPL_Volume": 2620,
+        "AAPL_Adj Close": 2055.03
+    },
+    {
+        "t": 1703548800,
+        "AAPL_Open": 2057.99,
+        "AAPL_High": 2069.08502,
+        "AAPL_Low": 2053.61998,
+        "AAPL_Close": 2067.71002,
+        "AAPL_Volume": 75935.94,
+        "AAPL_Adj Close": 2067.71002
+    },
+    {
+        "t": 1703635200,
+        "AAPL_Open": 2068.54,
+        "AAPL_High": 2084.49502,
+        "AAPL_Low": 2061.5099800000003,
+        "AAPL_Close": 2077.12002,
+        "AAPL_Volume": 113947.26,
+        "AAPL_Adj Close": 2077.12002
+    },
+    {
+        "t": 1703721600,
+        "AAPL_Open": 2077.985,
+        "AAPL_High": 2088.54502,
+        "AAPL_Low": 2064.72498,
+        "AAPL_Close": 2065.26502,
+        "AAPL_Volume": 161003.94,
+        "AAPL_Adj Close": 2065.26502
+    },
+    {
+        "t": 1703808000,
+        "AAPL_Open": 2067.07,
+        "AAPL_High": 2074.8450199999997,
+        "AAPL_Low": 2058.27498,
+        "AAPL_Close": 2062.9700199999997,
+        "AAPL_Volume": 156562.86000000002,
+        "AAPL_Adj Close": 2062.9700199999997
+    }
+]
