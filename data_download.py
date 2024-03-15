@@ -2,7 +2,6 @@ import json
 import requests
 import psycopg2
 import pandas as pd
-from pyspark.sql import SparkSession as spark
 
 start_date="2006-01-01"
 end_date="2023-12-31"
