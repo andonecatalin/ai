@@ -1,0 +1,144 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 74,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import requests\n",
+    "import psycopg2\n",
+    "import pandas as pd"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 78,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def create_query(name,table_name):\n",
+    "    replacement_map=[f'{name}_Open',f'{name}_High',f'{name}_Low',f'{name}_Close',f'{name}_Adj_Close',f'{name}_Volume']\n",
+    "    query=f\"SELECT {', '.join(replacement_map)} FROM {table_name} WHERE {replacement_map[0]} IS NOT NULL ORDER BY t ASC\"\n",
+    "    return query"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 79,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "SELECT AAPL_Open, AAPL_High, AAPL_Low, AAPL_Close, AAPL_Adj_Close, AAPL_Volume FROM tabela WHERE AAPL_Open IS NOT NULL ORDER BY t ASC\n",
+      "              0         1         2         3         4            5\n",
+      "0        2.5850    2.6696    2.5804    2.2722    2.2722  807234430.0\n",
+      "1        2.5850    2.6696    2.5804    2.2722    2.2722  807234430.0\n",
+      "2        2.5850    2.6696    2.5804    2.2722    2.2722  807234430.0\n",
+      "3        2.6832    2.7136    2.6607    2.2789    2.2789  619603600.0\n",
+      "4        2.6832    2.7136    2.6607    2.2789    2.2789  619603600.0\n",
+      "...         ...       ...       ...       ...       ...          ...\n",
+      "13585  194.1400  194.6600  193.1700  193.5800  193.5800   34049900.0\n",
+      "13586  194.1400  194.6600  193.1700  193.5800  193.5800   34049900.0\n",
+      "13587  193.9000  194.4000  191.7300  192.5300  192.5300   42628800.0\n",
+      "13588  193.9000  194.4000  191.7300  192.5300  192.5300   42628800.0\n",
+      "13589  193.9000  194.4000  191.7300  192.5300  192.5300   42628800.0\n",
+      "\n",
+      "[13590 rows x 6 columns]\n",
+      "SELECT MSFT_Open, MSFT_High, MSFT_Low, MSFT_Close, MSFT_Adj_Close, MSFT_Volume FROM tabela WHERE MSFT_Open IS NOT NULL ORDER BY t ASC\n",
+      "            0         1       2         3         4           5\n",
+      "0       26.25   27.0010   26.10   19.1186   19.1186  79970550.0\n",
+      "1       26.25   27.0010   26.10   19.1186   19.1186  79970550.0\n",
+      "2       26.25   27.0010   26.10   19.1186   19.1186  79970550.0\n",
+      "3       26.77   27.0801   26.77   19.2112   19.2112  57967200.0\n",
+      "4       26.77   27.0801   26.77   19.2112   19.2112  57967200.0\n",
+      "...       ...       ...     ...       ...       ...         ...\n",
+      "13585  375.37  376.4600  374.16  375.2800  375.2800  14327000.0\n",
+      "13586  375.37  376.4600  374.16  375.2800  375.2800  14327000.0\n",
+      "13587  376.00  377.1600  373.48  376.0400  376.0400  18723000.0\n",
+      "13588  376.00  377.1600  373.48  376.0400  376.0400  18723000.0\n",
+      "13589  376.00  377.1600  373.48  376.0400  376.0400  18723000.0\n",
+      "\n",
+      "[13590 rows x 6 columns]\n",
+      "SELECT SPY_Open, SPY_High, SPY_Low, SPY_Close, SPY_Adj_Close, SPY_Volume FROM tabela WHERE SPY_Open IS NOT NULL ORDER BY t ASC\n",
+      "            0       1       2         3         4            5\n",
+      "0      125.10  127.00  124.39   90.9846   90.9846   73325104.0\n",
+      "1      125.10  127.00  124.39   90.9846   90.9846   73325104.0\n",
+      "2      125.10  127.00  124.39   90.9846   90.9846   73325104.0\n",
+      "3      126.86  127.49  126.70   91.4154   91.4154   52240104.0\n",
+      "4      126.86  127.49  126.70   91.4154   91.4154   52240104.0\n",
+      "...       ...     ...     ...       ...       ...          ...\n",
+      "13630  476.88  477.55  476.26  476.6900  476.6900   77158120.0\n",
+      "13631  476.88  477.55  476.26  476.6900  476.6900   77158120.0\n",
+      "13632  476.49  477.03  473.30  475.3100  475.3100  122283104.0\n",
+      "13633  476.49  477.03  473.30  475.3100  475.3100  122283104.0\n",
+      "13634  476.49  477.03  473.30  475.3100  475.3100  122283104.0\n",
+      "\n",
+      "[13635 rows x 6 columns]\n",
+      "SELECT XAUUSD_OANDA_Open, XAUUSD_OANDA_High, XAUUSD_OANDA_Low, XAUUSD_OANDA_Close, XAUUSD_OANDA_Adj_Close, XAUUSD_OANDA_Volume FROM tabela WHERE XAUUSD_OANDA_Open IS NOT NULL ORDER BY t ASC\n",
+      "              0         1         2         3         4         5\n",
+      "0       552.800   556.200   549.800   554.600   554.600    3021.0\n",
+      "1       552.800   556.200   549.800   554.600   554.600    3021.0\n",
+      "2       552.800   556.200   549.800   554.600   554.600    3021.0\n",
+      "3       554.600   555.100   546.800   551.800   551.800    4546.0\n",
+      "4       554.600   555.100   546.800   551.800   551.800    4546.0\n",
+      "...         ...       ...       ...       ...       ...       ...\n",
+      "14914  2077.985  2088.545  2064.725  2065.265  2065.265  157847.0\n",
+      "14915  2077.985  2088.545  2064.725  2065.265  2065.265  157847.0\n",
+      "14916  2067.070  2074.845  2058.275  2062.970  2062.970  153493.0\n",
+      "14917  2067.070  2074.845  2058.275  2062.970  2062.970  153493.0\n",
+      "14918  2067.070  2074.845  2058.275  2062.970  2062.970  153493.0\n",
+      "\n",
+      "[14919 rows x 6 columns]\n",
+      "SELECT BCO_ICMTRADER_Open, BCO_ICMTRADER_High, BCO_ICMTRADER_Low, BCO_ICMTRADER_Close, BCO_ICMTRADER_Adj_Close, BCO_ICMTRADER_Volume FROM tabela WHERE BCO_ICMTRADER_Open IS NOT NULL ORDER BY t ASC\n",
+      "            0        1        2        3        4         5\n",
+      "0      96.582  105.153   96.575  104.311  104.311  180558.0\n",
+      "1      96.582  105.153   96.575  104.311  104.311  180558.0\n",
+      "2      96.582  105.153   96.575  104.311  104.311  180558.0\n",
+      "3     105.019  107.090  103.522  104.693  104.693  166484.0\n",
+      "4     105.019  107.090  103.522  104.693  104.693  166484.0\n",
+      "...       ...      ...      ...      ...      ...       ...\n",
+      "1204   79.545   79.825   77.065   77.295   77.295   59053.0\n",
+      "1205   79.545   79.825   77.065   77.295   77.295   59053.0\n",
+      "1206   77.285   77.930   76.705   76.835   76.835   50124.0\n",
+      "1207   77.285   77.930   76.705   76.835   76.835   50124.0\n",
+      "1208   77.285   77.930   76.705   76.835   76.835   50124.0\n",
+      "\n",
+      "[1209 rows x 6 columns]\n"
+     ]
+    }
+   ],
+   "source": [
+    "def get_data_by_tickers(nume,cursor):\n",
+    "    query=create_query(nume)\n",
+    "    print(query)\n",
+    "    cursor.execute(query)\n",
+    "    data=pd.DataFrame(cursor.fetchall())\n",
+    "    "
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
