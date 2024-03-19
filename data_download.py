@@ -1,4 +1,4 @@
-import json
+#import json
 import requests
 import psycopg2
 import pandas as pd
@@ -33,7 +33,7 @@ def replace_keys_in_json_files(data, name):
   return data      
 def tickers2(tickers):
     replaced=[]
-    for i in range(len(tickers)):
+    for i in range(len(tickers)): 
         replaced.append(tickers[i].replace('.','_'))
     return replaced
 
@@ -51,7 +51,7 @@ for i in range(len(tickers)):
         data_json=replace_keys_in_json_files(data_json,x[i])
         concatanated_data.append(data_json)
       
-        print(len(data_json))       
+          
         
     except requests.exceptions.RequestException as e:
         print(f"API Error: {e}")
