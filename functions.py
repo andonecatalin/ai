@@ -1,6 +1,8 @@
 
 import psycopg2
 import numpy as np
+from torch.utils.data import Dataset
+from torch.utils.data import Dataset
 
 def create_query(name, table_name):
     replacement_map=[f'{name}_Open',f'{name}_High',f'{name}_Low',f'{name}_Close',f'{name}_Adj_Close',f'{name}_Volume','t']
@@ -14,7 +16,7 @@ def request_data(name,table_name,dbname,dbuser,dbpassword,dbhost,dbport):
     cursor.execute(query)
     data=cursor.fetchall()
     conn.close()
-
+    data=np.array(data)
     return data
 
 
@@ -32,3 +34,4 @@ def graph(timp,data):
     for i in range(len(timp)):
         p[i][round(data[i])]=1
     return p
+    
