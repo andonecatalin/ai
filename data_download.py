@@ -9,7 +9,7 @@ end_date="2023-12-31"
 dbname='ai_dataset'
 dbuser='postgres'
 dbpassword='parola'
-dbport=5432 
+dbport=5432
 dbhost='127.0.0.1'
 conn=psycopg2.connect(dbname=dbname,user=dbuser,password=dbpassword,host=dbhost,port=dbport)
 
