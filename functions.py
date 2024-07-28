@@ -10,7 +10,7 @@ class Protected_execution:
         query=f"SELECT {', '.join(replacement_map)} FROM {table_name} WHERE {replacement_map[0]} IS NOT NULL ORDER BY t ASC"
         return query
 
-    def request_data(self,name,table_name,dbname,dbuser,dbpassword,dbhost,dbport):
+    '''def request_data(self,name,table_name,dbname,dbuser,dbpassword,dbhost,dbport):
         conn=psycopg2.connect(dbname=dbname,user=dbuser,password=dbpassword,host=dbhost,port=dbport)
         cursor=conn.cursor()
         query=self.create_query(name,table_name)
@@ -18,10 +18,10 @@ class Protected_execution:
         data=cursor.fetchall()
         conn.close()
 
-        return data
+        return data'''
 
 
-    def normal(arr):
+    '''def normal(arr):
         """
         Normalizes a 1D NumPy array to a range between 0 and 1.
 
@@ -33,25 +33,25 @@ class Protected_execution:
         """
         min_val = np.min(arr)
         max_val = np.max(arr)
-        return (arr - min_val) / (max_val - min_val)
+        return (arr - min_val) / (max_val - min_val)'''
 
 
     
     
-    def ema(self,data:np.ndarray,perioada:int)->np.ndarray:
+    '''def ema(self,data:np.ndarray,perioada:int)->np.ndarray:
         """calculeaza Exponantial Moving aAverage"""
         ema=[data[0]]
         for i in range(1, len(data)):
             weight=2.718/(perioada+1)
             ema.append(data[i]*weight+ema[i-1]*(1-weight))
-        return np.array(ema,dtype=np.float64)
-    def macd(self,data:np.ndarray,fast_ema=12,slow_ema=26,signal_ema=7):
+        return np.array(ema,dtype=np.float64)'''
+    '''def macd(self,data:np.ndarray,fast_ema=12,slow_ema=26,signal_ema=7):
         """calculeaza Moving Avarege Convargence/Divergence"""
         short_ema=self.ema(data,fast_ema)
         long_ema=self.ema(data,slow_ema)
         macd=short_ema-long_ema
         signal=self.ema(macd,signal_ema)
-        return macd[-1]-signal[-1]
+        return macd[-1]-signal[-1]'''
     def insert_column(self,data,column_name,table_name,dbname,dbuser,dbpassword,dbhost,dbport):
         conn=psycopg2.connect(dbname=dbname,user=dbuser,password=dbpassword,host=dbhost,port=dbport)
         cursor=conn.cursor()
@@ -65,7 +65,7 @@ class Protected_execution:
         conn=psycopg2.connect(dbname=dbname,user=dbuser,password=dbpassword,host=dbhost,port=dbport)
         cursor=conn.cursor
         return cursor,conn
-    def fit_to_range_tensor(data, min_value=-20, max_value=20):
+    def fit_to_range_tensor(data, min_value=-5, max_value=5):
         """
         Fits a PyTorch tensor of numbers into a specified range.
 
@@ -98,3 +98,48 @@ class Protected_execution:
         clipped_data = torch.clamp(fitted_data, min_value, max_value)
 
         return clipped_data
+    def tensor_shortner(tensor, requested_size):
+        if isinstance(tensor, torch.Tensor):
+            tensor_size=tensor.size()[0]
+        elif isinstance(tensor, list):
+            tensor_size=len(tensor)
+        if tensor_size<requested_size:
+            raise Exception("Requested size is bigger or equal to tensor")
+        
+        i=tensor_size
+        while i!=0:
+            if i % requested_size==0:
+                return tensor[:i]
+            i-=1
+    def image_builder(tensor:torch.Tensor, batch_size:int,shuffle=False):
+        #makes consecutive batches in form of a list
+        tensor_size=tensor.size()[0]
+        batches=[]
+        for i in range(tensor_size):
+            if i+batch_size<tensor_size-1:
+                batches.append([tensor[i:i+batch_size].tolist()])
+        if shuffle:
+            random.shuffle(batches)
+            
+        return batches
+
+    
+    def change(tensor:torch.Tensor, batch_size=32):
+        #shape from image_builder function goes like this:
+        #[batch number][leftover dimmension][element from batch]
+        empty_list=[]
+        for i in range(len(tensor)-1):
+            first=tensor[i+1][0][0]
+            last=tensor[i][0][batch_size-1]
+            diffrence=last-first
+            average=(last+first)/2
+            percent_diffrence=(diffrence/average)*100*4
+            #limits to 25 points +/- to make training achivable
+            #times 4 to increase sensitivity
+            if percent_diffrence >25:
+                percent_diffrence=25
+            if percent_diffrence<-25:
+                percent_diffrence=-25
+            empty_list.append(round(percent_diffrence))
+        return empty_list        
+    
