@@ -3,55 +3,14 @@ import psycopg2
 import numpy as np
 import torch
 class Protected_execution:
-    def __init__(self) -> None:
-        pass
+    def __init__(self):
+        self.garbage='nothing'
     def create_query(name:str, table_name:str):
         replacement_map=[f'{name}_Open',f'{name}_High',f'{name}_Low',f'{name}_Close',f'{name}_Adj_Close',f'{name}_Volume']
         query=f"SELECT {', '.join(replacement_map)} FROM {table_name} WHERE {replacement_map[0]} IS NOT NULL ORDER BY t ASC"
         return query
 
-    '''def request_data(self,name,table_name,dbname,dbuser,dbpassword,dbhost,dbport):
-        conn=psycopg2.connect(dbname=dbname,user=dbuser,password=dbpassword,host=dbhost,port=dbport)
-        cursor=conn.cursor()
-        query=self.create_query(name,table_name)
-        cursor.execute(query)
-        data=cursor.fetchall()
-        conn.close()
 
-        return data'''
-
-
-    '''def normal(arr):
-        """
-        Normalizes a 1D NumPy array to a range between 0 and 1.
-
-        Args:
-            arr: A 1D NumPy array containing the data to be normalized.
-
-        Returns:
-            A NumPy array containing the normalized data between 0 and 1.
-        """
-        min_val = np.min(arr)
-        max_val = np.max(arr)
-        return (arr - min_val) / (max_val - min_val)'''
-
-
-    
-    
-    '''def ema(self,data:np.ndarray,perioada:int)->np.ndarray:
-        """calculeaza Exponantial Moving aAverage"""
-        ema=[data[0]]
-        for i in range(1, len(data)):
-            weight=2.718/(perioada+1)
-            ema.append(data[i]*weight+ema[i-1]*(1-weight))
-        return np.array(ema,dtype=np.float64)'''
-    '''def macd(self,data:np.ndarray,fast_ema=12,slow_ema=26,signal_ema=7):
-        """calculeaza Moving Avarege Convargence/Divergence"""
-        short_ema=self.ema(data,fast_ema)
-        long_ema=self.ema(data,slow_ema)
-        macd=short_ema-long_ema
-        signal=self.ema(macd,signal_ema)
-        return macd[-1]-signal[-1]'''
     def insert_column(self,data,column_name,table_name,dbname,dbuser,dbpassword,dbhost,dbport):
         conn=psycopg2.connect(dbname=dbname,user=dbuser,password=dbpassword,host=dbhost,port=dbport)
         cursor=conn.cursor()
@@ -133,13 +92,31 @@ class Protected_execution:
             last=tensor[i][0][batch_size-1]
             diffrence=last-first
             average=(last+first)/2
-            percent_diffrence=(diffrence/average)*100*4
+            percent_diffrence=(diffrence/average)*100
             #limits to 25 points +/- to make training achivable
             #times 4 to increase sensitivity
-            if percent_diffrence >25:
-                percent_diffrence=25
-            if percent_diffrence<-25:
-                percent_diffrence=-25
+            if percent_diffrence >20:
+                percent_diffrence=20
+            elif percent_diffrence<-20:
+                percent_diffrence=-20
             empty_list.append(round(percent_diffrence))
         return empty_list        
-    
+
+
+    def make_tensor(polars_fw,tensor, name, batch_size=32):
+        #make it compatible with the tickers list
+        name=name.lower()
+        replacement_map=[f'{name}_low',f'{name}_adj_close',f'{name}_volume']
+        for name in replacement_map:
+            #make it go trough all of the steps the original tensor goes
+            concat=polars_fw[name]
+            concat=torch.tensor(concat)
+            concat=Protected_execution.tensor_shortner(concat, batch_size)
+            concat=Protected_execution.image_builder(concat, batch_size)
+            concat=concat[:-1]
+            concat=torch.tensor(concat)
+            #move to the same device as original tensor
+            concat=concat.to(str(tensor.device))
+            #concatanate on dim=1
+            tensor=torch.cat((tensor, concat),dim=1)
+        return tensor
