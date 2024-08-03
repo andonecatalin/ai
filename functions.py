@@ -106,7 +106,9 @@ class Protected_execution:
     def make_tensor(polars_fw,tensor, name, batch_size=32):
         #make it compatible with the tickers list
         name=name.lower()
+
         replacement_map=[f'{name}_low',f'{name}_adj_close',f'{name}_volume']
+
         for name in replacement_map:
             #make it go trough all of the steps the original tensor goes
             concat=polars_fw[name]
